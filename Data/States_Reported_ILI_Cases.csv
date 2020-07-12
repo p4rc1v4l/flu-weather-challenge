@@ -1,0 +1,3871 @@
+year,week,State,reported_ILI_cases_per_week
+2010,40,Arizona,172
+2010,40,California,632
+2010,40,Colorado,134
+2010,40,Georgia,647
+2010,40,Illinois,505
+2010,40,New York,37
+2010,40,Pennsylvania,122
+2010,40,Texas,1050
+2010,40,Washington,16
+2010,41,Arizona,183
+2010,41,California,742
+2010,41,Colorado,115
+2010,41,Georgia,702
+2010,41,Illinois,600
+2010,41,New York,47
+2010,41,Pennsylvania,157
+2010,41,Texas,1061
+2010,41,Washington,34
+2010,42,Arizona,240
+2010,42,California,766
+2010,42,Colorado,152
+2010,42,Georgia,793
+2010,42,Illinois,644
+2010,42,New York,53
+2010,42,Pennsylvania,161
+2010,42,Texas,1090
+2010,42,Washington,28
+2010,43,Arizona,233
+2010,43,California,666
+2010,43,Colorado,175
+2010,43,Georgia,881
+2010,43,Illinois,623
+2010,43,New York,53
+2010,43,Pennsylvania,133
+2010,43,Texas,1117
+2010,43,Washington,30
+2010,44,Arizona,312
+2010,44,California,887
+2010,44,Colorado,193
+2010,44,Georgia,1033
+2010,44,Illinois,625
+2010,44,New York,80
+2010,44,Pennsylvania,181
+2010,44,Texas,1218
+2010,44,Washington,24
+2010,45,Arizona,239
+2010,45,California,906
+2010,45,Colorado,139
+2010,45,Georgia,1390
+2010,45,Illinois,651
+2010,45,New York,78
+2010,45,Pennsylvania,184
+2010,45,Texas,1310
+2010,45,Washington,40
+2010,46,Arizona,284
+2010,46,California,1020
+2010,46,Colorado,137
+2010,46,Georgia,1938
+2010,46,Illinois,661
+2010,46,New York,79
+2010,46,Pennsylvania,170
+2010,46,Texas,1121
+2010,46,Washington,44
+2010,47,Arizona,251
+2010,47,California,729
+2010,47,Colorado,108
+2010,47,Georgia,1801
+2010,47,Illinois,622
+2010,47,New York,58
+2010,47,Pennsylvania,144
+2010,47,Texas,964
+2010,47,Washington,21
+2010,48,Arizona,371
+2010,48,California,939
+2010,48,Colorado,168
+2010,48,Georgia,1315
+2010,48,Illinois,659
+2010,48,New York,244
+2010,48,Pennsylvania,217
+2010,48,Texas,1273
+2010,48,Washington,35
+2010,49,Arizona,517
+2010,49,California,1072
+2010,49,Colorado,154
+2010,49,Georgia,1685
+2010,49,Illinois,732
+2010,49,New York,303
+2010,49,Pennsylvania,203
+2010,49,Texas,1165
+2010,49,Washington,33
+2010,50,Arizona,488
+2010,50,California,1170
+2010,50,Colorado,174
+2010,50,Georgia,2254
+2010,50,Illinois,775
+2010,50,New York,357
+2010,50,Pennsylvania,196
+2010,50,Texas,1350
+2010,50,Washington,14
+2010,51,Arizona,454
+2010,51,California,1057
+2010,51,Colorado,123
+2010,51,Georgia,2489
+2010,51,Illinois,1039
+2010,51,New York,388
+2010,51,Pennsylvania,214
+2010,51,Texas,1418
+2010,51,Washington,6
+2010,52,Arizona,344
+2010,52,California,916
+2010,52,Colorado,160
+2010,52,Georgia,2064
+2010,52,Illinois,1251
+2010,52,New York,349
+2010,52,Pennsylvania,243
+2010,52,Texas,1293
+2010,52,Washington,30
+2011,1,Arizona,411
+2011,1,California,1190
+2011,1,Colorado,199
+2011,1,Georgia,1723
+2011,1,Illinois,1172
+2011,1,New York,352
+2011,1,Pennsylvania,257
+2011,1,Texas,1524
+2011,1,Washington,35
+2011,2,Arizona,447
+2011,2,California,1354
+2011,2,Colorado,202
+2011,2,Georgia,1133
+2011,2,Illinois,1280
+2011,2,New York,383
+2011,2,Pennsylvania,322
+2011,2,Texas,1950
+2011,2,Washington,33
+2011,3,Arizona,604
+2011,3,California,1324
+2011,3,Colorado,236
+2011,3,Georgia,1288
+2011,3,Illinois,1664
+2011,3,New York,356
+2011,3,Pennsylvania,439
+2011,3,Texas,2518
+2011,3,Washington,16
+2011,4,Arizona,756
+2011,4,California,1768
+2011,4,Colorado,406
+2011,4,Georgia,1629
+2011,4,Illinois,1991
+2011,4,New York,437
+2011,4,Pennsylvania,681
+2011,4,Texas,3381
+2011,4,Washington,46
+2011,5,Arizona,682
+2011,5,California,1747
+2011,5,Colorado,486
+2011,5,Georgia,1828
+2011,5,Illinois,1857
+2011,5,New York,528
+2011,5,Pennsylvania,758
+2011,5,Texas,3086
+2011,5,Washington,75
+2011,6,Arizona,769
+2011,6,California,1987
+2011,6,Colorado,548
+2011,6,Georgia,1908
+2011,6,Illinois,1774
+2011,6,New York,572
+2011,6,Pennsylvania,687
+2011,6,Texas,3280
+2011,6,Washington,63
+2011,7,Arizona,770
+2011,7,California,2036
+2011,7,Colorado,654
+2011,7,Georgia,1835
+2011,7,Illinois,1739
+2011,7,New York,537
+2011,7,Pennsylvania,663
+2011,7,Texas,4821
+2011,7,Washington,114
+2011,8,Arizona,681
+2011,8,California,1775
+2011,8,Colorado,637
+2011,8,Georgia,1596
+2011,8,Illinois,1568
+2011,8,New York,420
+2011,8,Pennsylvania,591
+2011,8,Texas,3641
+2011,8,Washington,94
+2011,9,Arizona,454
+2011,9,California,2007
+2011,9,Colorado,591
+2011,9,Georgia,1048
+2011,9,Illinois,1579
+2011,9,New York,328
+2011,9,Pennsylvania,485
+2011,9,Texas,2401
+2011,9,Washington,98
+2011,10,Arizona,443
+2011,10,California,1853
+2011,10,Colorado,451
+2011,10,Georgia,794
+2011,10,Illinois,1345
+2011,10,New York,313
+2011,10,Pennsylvania,368
+2011,10,Texas,1784
+2011,10,Washington,82
+2011,11,Arizona,310
+2011,11,California,1598
+2011,11,Colorado,387
+2011,11,Georgia,775
+2011,11,Illinois,1284
+2011,11,New York,339
+2011,11,Pennsylvania,328
+2011,11,Texas,1231
+2011,11,Washington,73
+2011,12,Arizona,276
+2011,12,California,1111
+2011,12,Colorado,289
+2011,12,Georgia,665
+2011,12,Illinois,1045
+2011,12,New York,254
+2011,12,Pennsylvania,253
+2011,12,Texas,1082
+2011,12,Washington,76
+2011,13,Arizona,272
+2011,13,California,1160
+2011,13,Colorado,192
+2011,13,Georgia,581
+2011,13,Illinois,985
+2011,13,New York,242
+2011,13,Pennsylvania,244
+2011,13,Texas,968
+2011,13,Washington,42
+2011,14,Arizona,246
+2011,14,California,927
+2011,14,Colorado,182
+2011,14,Georgia,549
+2011,14,Illinois,851
+2011,14,New York,251
+2011,14,Pennsylvania,264
+2011,14,Texas,827
+2011,14,Washington,18
+2011,15,Arizona,222
+2011,15,California,918
+2011,15,Colorado,167
+2011,15,Georgia,485
+2011,15,Illinois,616
+2011,15,New York,236
+2011,15,Pennsylvania,213
+2011,15,Texas,770
+2011,15,Washington,25
+2011,16,Arizona,257
+2011,16,California,736
+2011,16,Colorado,153
+2011,16,Georgia,490
+2011,16,Illinois,640
+2011,16,New York,197
+2011,16,Pennsylvania,144
+2011,16,Texas,683
+2011,16,Washington,33
+2011,17,Arizona,241
+2011,17,California,784
+2011,17,Colorado,177
+2011,17,Georgia,468
+2011,17,Illinois,526
+2011,17,New York,123
+2011,17,Pennsylvania,142
+2011,17,Texas,605
+2011,17,Washington,16
+2011,18,Arizona,181
+2011,18,California,734
+2011,18,Colorado,151
+2011,18,Georgia,446
+2011,18,Illinois,479
+2011,18,New York,153
+2011,18,Pennsylvania,141
+2011,18,Texas,662
+2011,18,Washington,16
+2011,19,Arizona,156
+2011,19,California,672
+2011,19,Colorado,113
+2011,19,Georgia,488
+2011,19,Illinois,575
+2011,19,New York,164
+2011,19,Pennsylvania,120
+2011,19,Texas,730
+2011,19,Washington,11
+2011,20,Arizona,124
+2011,20,California,700
+2011,20,Colorado,118
+2011,20,Georgia,491
+2011,20,Illinois,392
+2011,20,New York,57
+2011,20,Pennsylvania,113
+2011,20,Texas,574
+2011,20,Washington,8
+2011,21,Arizona,137
+2011,21,California,583
+2011,21,Colorado,112
+2011,21,Georgia,373
+2011,21,Illinois,381
+2011,21,New York,99
+2011,21,Pennsylvania,95
+2011,21,Texas,459
+2011,21,Washington,2
+2011,22,Arizona,104
+2011,22,California,581
+2011,22,Colorado,88
+2011,22,Georgia,414
+2011,22,Illinois,516
+2011,22,New York,88
+2011,22,Pennsylvania,98
+2011,22,Texas,487
+2011,22,Washington,2
+2011,23,Arizona,97
+2011,23,California,588
+2011,23,Colorado,84
+2011,23,Georgia,300
+2011,23,Illinois,392
+2011,23,New York,8
+2011,23,Pennsylvania,111
+2011,23,Texas,391
+2011,23,Washington,3
+2011,24,Arizona,80
+2011,24,California,461
+2011,24,Colorado,70
+2011,24,Georgia,249
+2011,24,Illinois,311
+2011,24,New York,5
+2011,24,Pennsylvania,75
+2011,24,Texas,434
+2011,24,Washington,1
+2011,25,Arizona,86
+2011,25,California,436
+2011,25,Colorado,55
+2011,25,Georgia,214
+2011,25,Illinois,307
+2011,25,New York,7
+2011,25,Pennsylvania,81
+2011,25,Texas,378
+2011,25,Washington,0
+2011,26,Arizona,81
+2011,26,California,426
+2011,26,Colorado,45
+2011,26,Georgia,168
+2011,26,Illinois,379
+2011,26,New York,7
+2011,26,Pennsylvania,64
+2011,26,Texas,323
+2011,26,Washington,0
+2011,27,Arizona,82
+2011,27,California,343
+2011,27,Colorado,64
+2011,27,Georgia,222
+2011,27,Illinois,372
+2011,27,New York,2
+2011,27,Pennsylvania,82
+2011,27,Texas,333
+2011,27,Washington,0
+2011,28,Arizona,95
+2011,28,California,383
+2011,28,Colorado,56
+2011,28,Georgia,173
+2011,28,Illinois,244
+2011,28,New York,3
+2011,28,Pennsylvania,55
+2011,28,Texas,384
+2011,28,Washington,0
+2011,29,Arizona,77
+2011,29,California,327
+2011,29,Colorado,75
+2011,29,Georgia,154
+2011,29,Illinois,335
+2011,29,New York,7
+2011,29,Pennsylvania,60
+2011,29,Texas,260
+2011,29,Washington,0
+2011,30,Arizona,67
+2011,30,California,303
+2011,30,Colorado,70
+2011,30,Georgia,181
+2011,30,Illinois,356
+2011,30,New York,7
+2011,30,Pennsylvania,54
+2011,30,Texas,298
+2011,30,Washington,0
+2011,31,Arizona,91
+2011,31,California,91
+2011,31,Colorado,93
+2011,31,Georgia,186
+2011,31,Illinois,351
+2011,31,New York,8
+2011,31,Pennsylvania,50
+2011,31,Texas,317
+2011,31,Washington,0
+2011,32,Arizona,69
+2011,32,California,295
+2011,32,Colorado,69
+2011,32,Georgia,241
+2011,32,Illinois,316
+2011,32,New York,6
+2011,32,Pennsylvania,62
+2011,32,Texas,302
+2011,32,Washington,0
+2011,33,Arizona,98
+2011,33,California,284
+2011,33,Colorado,77
+2011,33,Georgia,284
+2011,33,Illinois,370
+2011,33,New York,7
+2011,33,Pennsylvania,56
+2011,33,Texas,372
+2011,33,Washington,0
+2011,34,Arizona,128
+2011,34,California,350
+2011,34,Colorado,78
+2011,34,Georgia,406
+2011,34,Illinois,398
+2011,34,New York,6
+2011,34,Pennsylvania,57
+2011,34,Texas,388
+2011,34,Washington,1
+2011,35,Arizona,148
+2011,35,California,376
+2011,35,Colorado,119
+2011,35,Georgia,389
+2011,35,Illinois,431
+2011,35,New York,10
+2011,35,Pennsylvania,67
+2011,35,Texas,550
+2011,35,Washington,0
+2011,36,Arizona,85
+2011,36,California,322
+2011,36,Colorado,99
+2011,36,Georgia,435
+2011,36,Illinois,448
+2011,36,New York,8
+2011,36,Pennsylvania,76
+2011,36,Texas,557
+2011,36,Washington,1
+2011,37,Arizona,118
+2011,37,California,420
+2011,37,Colorado,121
+2011,37,Georgia,467
+2011,37,Illinois,439
+2011,37,New York,9
+2011,37,Pennsylvania,113
+2011,37,Texas,591
+2011,37,Washington,1
+2011,38,Arizona,107
+2011,38,California,445
+2011,38,Colorado,124
+2011,38,Georgia,453
+2011,38,Illinois,541
+2011,38,New York,22
+2011,38,Pennsylvania,139
+2011,38,Texas,568
+2011,38,Washington,4
+2011,39,Arizona,120
+2011,39,California,474
+2011,39,Colorado,131
+2011,39,Georgia,563
+2011,39,Illinois,512
+2011,39,New York,24
+2011,39,Pennsylvania,188
+2011,39,Texas,510
+2011,39,Washington,0
+2011,40,Arizona,138
+2011,40,California,568
+2011,40,Colorado,153
+2011,40,Georgia,578
+2011,40,Illinois,886
+2011,40,New York,79
+2011,40,Pennsylvania,150
+2011,40,Texas,772
+2011,40,Washington,38
+2011,41,Arizona,132
+2011,41,California,703
+2011,41,Colorado,117
+2011,41,Georgia,559
+2011,41,Illinois,794
+2011,41,New York,81
+2011,41,Pennsylvania,161
+2011,41,Texas,692
+2011,41,Washington,39
+2011,42,Arizona,153
+2011,42,California,801
+2011,42,Colorado,123
+2011,42,Georgia,485
+2011,42,Illinois,755
+2011,42,New York,62
+2011,42,Pennsylvania,168
+2011,42,Texas,792
+2011,42,Washington,32
+2011,43,Arizona,179
+2011,43,California,797
+2011,43,Colorado,127
+2011,43,Georgia,389
+2011,43,Illinois,772
+2011,43,New York,59
+2011,43,Pennsylvania,186
+2011,43,Texas,833
+2011,43,Washington,39
+2011,44,Arizona,201
+2011,44,California,866
+2011,44,Colorado,116
+2011,44,Georgia,577
+2011,44,Illinois,797
+2011,44,New York,83
+2011,44,Pennsylvania,206
+2011,44,Texas,768
+2011,44,Washington,55
+2011,45,Arizona,198
+2011,45,California,784
+2011,45,Colorado,108
+2011,45,Georgia,623
+2011,45,Illinois,742
+2011,45,New York,62
+2011,45,Pennsylvania,228
+2011,45,Texas,876
+2011,45,Washington,41
+2011,46,Arizona,250
+2011,46,California,992
+2011,46,Colorado,152
+2011,46,Georgia,569
+2011,46,Illinois,819
+2011,46,New York,63
+2011,46,Pennsylvania,201
+2011,46,Texas,915
+2011,46,Washington,55
+2011,47,Arizona,219
+2011,47,California,594
+2011,47,Colorado,84
+2011,47,Georgia,599
+2011,47,Illinois,783
+2011,47,New York,36
+2011,47,Pennsylvania,193
+2011,47,Texas,722
+2011,47,Washington,39
+2011,48,Arizona,242
+2011,48,California,511
+2011,48,Colorado,141
+2011,48,Georgia,520
+2011,48,Illinois,772
+2011,48,New York,87
+2011,48,Pennsylvania,217
+2011,48,Texas,802
+2011,48,Washington,42
+2011,49,Arizona,223
+2011,49,California,883
+2011,49,Colorado,137
+2011,49,Georgia,440
+2011,49,Illinois,694
+2011,49,New York,101
+2011,49,Pennsylvania,180
+2011,49,Texas,608
+2011,49,Washington,28
+2011,50,Arizona,193
+2011,50,California,951
+2011,50,Colorado,141
+2011,50,Georgia,553
+2011,50,Illinois,772
+2011,50,New York,82
+2011,50,Pennsylvania,192
+2011,50,Texas,781
+2011,50,Washington,47
+2011,51,Arizona,192
+2011,51,California,843
+2011,51,Colorado,125
+2011,51,Georgia,778
+2011,51,Illinois,840
+2011,51,New York,57
+2011,51,Pennsylvania,203
+2011,51,Texas,779
+2011,51,Washington,47
+2011,52,Arizona,213
+2011,52,California,718
+2011,52,Colorado,123
+2011,52,Georgia,714
+2011,52,Illinois,1020
+2011,52,New York,36
+2011,52,Pennsylvania,228
+2011,52,Texas,713
+2011,52,Washington,43
+2012,1,Arizona,225
+2012,1,California,854
+2012,1,Colorado,127
+2012,1,Georgia,609
+2012,1,Illinois,888
+2012,1,New York,72
+2012,1,Pennsylvania,183
+2012,1,Texas,745
+2012,1,Washington,53
+2012,2,Arizona,207
+2012,2,California,958
+2012,2,Colorado,157
+2012,2,Georgia,550
+2012,2,Illinois,830
+2012,2,New York,84
+2012,2,Pennsylvania,205
+2012,2,Texas,859
+2012,2,Washington,44
+2012,3,Arizona,212
+2012,3,California,855
+2012,3,Colorado,160
+2012,3,Georgia,622
+2012,3,Illinois,867
+2012,3,New York,80
+2012,3,Pennsylvania,201
+2012,3,Texas,923
+2012,3,Washington,39
+2012,4,Arizona,216
+2012,4,California,1224
+2012,4,Colorado,231
+2012,4,Georgia,642
+2012,4,Illinois,948
+2012,4,New York,69
+2012,4,Pennsylvania,217
+2012,4,Texas,899
+2012,4,Washington,49
+2012,5,Arizona,303
+2012,5,California,1359
+2012,5,Colorado,213
+2012,5,Georgia,768
+2012,5,Illinois,1136
+2012,5,New York,88
+2012,5,Pennsylvania,219
+2012,5,Texas,1046
+2012,5,Washington,93
+2012,6,Arizona,273
+2012,6,California,1265
+2012,6,Colorado,239
+2012,6,Georgia,724
+2012,6,Illinois,989
+2012,6,New York,72
+2012,6,Pennsylvania,236
+2012,6,Texas,1124
+2012,6,Washington,90
+2012,7,Arizona,362
+2012,7,California,1278
+2012,7,Colorado,243
+2012,7,Georgia,740
+2012,7,Illinois,1361
+2012,7,New York,81
+2012,7,Pennsylvania,230
+2012,7,Texas,1241
+2012,7,Washington,83
+2012,8,Arizona,344
+2012,8,California,1300
+2012,8,Colorado,316
+2012,8,Georgia,379
+2012,8,Illinois,1557
+2012,8,New York,124
+2012,8,Pennsylvania,232
+2012,8,Texas,1141
+2012,8,Washington,92
+2012,9,Arizona,354
+2012,9,California,1253
+2012,9,Colorado,343
+2012,9,Georgia,732
+2012,9,Illinois,1561
+2012,9,New York,109
+2012,9,Pennsylvania,213
+2012,9,Texas,1434
+2012,9,Washington,84
+2012,10,Arizona,334
+2012,10,California,812
+2012,10,Colorado,321
+2012,10,Georgia,696
+2012,10,Illinois,1829
+2012,10,New York,102
+2012,10,Pennsylvania,172
+2012,10,Texas,960
+2012,10,Washington,103
+2012,11,Arizona,321
+2012,11,California,920
+2012,11,Colorado,340
+2012,11,Georgia,748
+2012,11,Illinois,2074
+2012,11,New York,127
+2012,11,Pennsylvania,199
+2012,11,Texas,1278
+2012,11,Washington,97
+2012,12,Arizona,309
+2012,12,California,819
+2012,12,Colorado,274
+2012,12,Georgia,688
+2012,12,Illinois,1562
+2012,12,New York,86
+2012,12,Pennsylvania,205
+2012,12,Texas,1149
+2012,12,Washington,78
+2012,13,Arizona,298
+2012,13,California,1229
+2012,13,Colorado,188
+2012,13,Georgia,642
+2012,13,Illinois,1077
+2012,13,New York,78
+2012,13,Pennsylvania,214
+2012,13,Texas,1057
+2012,13,Washington,102
+2012,14,Arizona,275
+2012,14,California,952
+2012,14,Colorado,194
+2012,14,Georgia,521
+2012,14,Illinois,1009
+2012,14,New York,95
+2012,14,Pennsylvania,184
+2012,14,Texas,947
+2012,14,Washington,115
+2012,15,Arizona,280
+2012,15,California,927
+2012,15,Colorado,156
+2012,15,Georgia,468
+2012,15,Illinois,962
+2012,15,New York,88
+2012,15,Pennsylvania,196
+2012,15,Texas,851
+2012,15,Washington,125
+2012,16,Arizona,234
+2012,16,California,717
+2012,16,Colorado,129
+2012,16,Georgia,468
+2012,16,Illinois,863
+2012,16,New York,88
+2012,16,Pennsylvania,193
+2012,16,Texas,842
+2012,16,Washington,120
+2012,17,Arizona,175
+2012,17,California,693
+2012,17,Colorado,133
+2012,17,Georgia,303
+2012,17,Illinois,839
+2012,17,New York,82
+2012,17,Pennsylvania,148
+2012,17,Texas,765
+2012,17,Washington,93
+2012,18,Arizona,163
+2012,18,California,732
+2012,18,Colorado,125
+2012,18,Georgia,175
+2012,18,Illinois,749
+2012,18,New York,47
+2012,18,Pennsylvania,143
+2012,18,Texas,737
+2012,18,Washington,106
+2012,19,Arizona,151
+2012,19,California,673
+2012,19,Colorado,99
+2012,19,Georgia,189
+2012,19,Illinois,544
+2012,19,New York,52
+2012,19,Pennsylvania,127
+2012,19,Texas,751
+2012,19,Washington,79
+2012,20,Arizona,126
+2012,20,California,613
+2012,20,Colorado,130
+2012,20,Georgia,208
+2012,20,Illinois,542
+2012,20,New York,46
+2012,20,Pennsylvania,119
+2012,20,Texas,750
+2012,20,Washington,54
+2012,21,Arizona,117
+2012,21,California,593
+2012,21,Colorado,77
+2012,21,Georgia,476
+2012,21,Illinois,482
+2012,21,New York,34
+2012,21,Pennsylvania,97
+2012,21,Texas,781
+2012,21,Washington,26
+2012,22,Arizona,99
+2012,22,California,465
+2012,22,Colorado,85
+2012,22,Georgia,496
+2012,22,Illinois,511
+2012,22,New York,24
+2012,22,Pennsylvania,83
+2012,22,Texas,611
+2012,22,Washington,25
+2012,23,Arizona,92
+2012,23,California,497
+2012,23,Colorado,88
+2012,23,Georgia,363
+2012,23,Illinois,490
+2012,23,New York,18
+2012,23,Pennsylvania,71
+2012,23,Texas,552
+2012,23,Washington,19
+2012,24,Arizona,102
+2012,24,California,466
+2012,24,Colorado,77
+2012,24,Georgia,346
+2012,24,Illinois,374
+2012,24,New York,9
+2012,24,Pennsylvania,62
+2012,24,Texas,520
+2012,24,Washington,16
+2012,25,Arizona,90
+2012,25,California,482
+2012,25,Colorado,75
+2012,25,Georgia,261
+2012,25,Illinois,389
+2012,25,New York,13
+2012,25,Pennsylvania,64
+2012,25,Texas,539
+2012,25,Washington,17
+2012,26,Arizona,94
+2012,26,California,411
+2012,26,Colorado,60
+2012,26,Georgia,231
+2012,26,Illinois,402
+2012,26,New York,8
+2012,26,Pennsylvania,59
+2012,26,Texas,572
+2012,26,Washington,16
+2012,27,Arizona,57
+2012,27,California,365
+2012,27,Colorado,57
+2012,27,Georgia,253
+2012,27,Illinois,369
+2012,27,New York,13
+2012,27,Pennsylvania,43
+2012,27,Texas,516
+2012,27,Washington,13
+2012,28,Arizona,63
+2012,28,California,390
+2012,28,Colorado,68
+2012,28,Georgia,221
+2012,28,Illinois,396
+2012,28,New York,8
+2012,28,Pennsylvania,49
+2012,28,Texas,467
+2012,28,Washington,12
+2012,29,Arizona,67
+2012,29,California,357
+2012,29,Colorado,69
+2012,29,Georgia,222
+2012,29,Illinois,397
+2012,29,New York,7
+2012,29,Pennsylvania,57
+2012,29,Texas,471
+2012,29,Washington,12
+2012,30,Arizona,77
+2012,30,California,354
+2012,30,Colorado,72
+2012,30,Georgia,231
+2012,30,Illinois,429
+2012,30,New York,5
+2012,30,Pennsylvania,71
+2012,30,Texas,438
+2012,30,Washington,13
+2012,31,Arizona,102
+2012,31,California,362
+2012,31,Colorado,59
+2012,31,Georgia,210
+2012,31,Illinois,490
+2012,31,New York,9
+2012,31,Pennsylvania,52
+2012,31,Texas,491
+2012,31,Washington,7
+2012,32,Arizona,127
+2012,32,California,343
+2012,32,Colorado,62
+2012,32,Georgia,281
+2012,32,Illinois,378
+2012,32,New York,5
+2012,32,Pennsylvania,46
+2012,32,Texas,500
+2012,32,Washington,14
+2012,33,Arizona,116
+2012,33,California,160
+2012,33,Colorado,72
+2012,33,Georgia,335
+2012,33,Illinois,442
+2012,33,New York,7
+2012,33,Pennsylvania,55
+2012,33,Texas,519
+2012,33,Washington,11
+2012,34,Arizona,142
+2012,34,California,411
+2012,34,Colorado,95
+2012,34,Georgia,483
+2012,34,Illinois,518
+2012,34,New York,4
+2012,34,Pennsylvania,68
+2012,34,Texas,561
+2012,34,Washington,8
+2012,35,Arizona,179
+2012,35,California,525
+2012,35,Colorado,110
+2012,35,Georgia,414
+2012,35,Illinois,579
+2012,35,New York,7
+2012,35,Pennsylvania,65
+2012,35,Texas,542
+2012,35,Washington,7
+2012,36,Arizona,133
+2012,36,California,543
+2012,36,Colorado,89
+2012,36,Georgia,215
+2012,36,Illinois,503
+2012,36,New York,8
+2012,36,Pennsylvania,66
+2012,36,Texas,579
+2012,36,Washington,13
+2012,37,Arizona,137
+2012,37,California,627
+2012,37,Colorado,97
+2012,37,Georgia,226
+2012,37,Illinois,687
+2012,37,New York,15
+2012,37,Pennsylvania,117
+2012,37,Texas,780
+2012,37,Washington,9
+2012,38,Arizona,137
+2012,38,California,678
+2012,38,Colorado,102
+2012,38,Georgia,211
+2012,38,Illinois,607
+2012,38,New York,9
+2012,38,Pennsylvania,97
+2012,38,Texas,782
+2012,38,Washington,18
+2012,39,Arizona,122
+2012,39,California,656
+2012,39,Colorado,132
+2012,39,Georgia,230
+2012,39,Illinois,644
+2012,39,New York,24
+2012,39,Pennsylvania,109
+2012,39,Texas,778
+2012,39,Washington,18
+2012,40,Arizona,132
+2012,40,California,720
+2012,40,Colorado,102
+2012,40,Georgia,261
+2012,40,Illinois,696
+2012,40,New York,48
+2012,40,Pennsylvania,213
+2012,40,Texas,794
+2012,40,Washington,38
+2012,41,Arizona,136
+2012,41,California,781
+2012,41,Colorado,115
+2012,41,Georgia,308
+2012,41,Illinois,734
+2012,41,New York,94
+2012,41,Pennsylvania,171
+2012,41,Texas,951
+2012,41,Washington,40
+2012,42,Arizona,194
+2012,42,California,840
+2012,42,Colorado,98
+2012,42,Georgia,278
+2012,42,Illinois,789
+2012,42,New York,156
+2012,42,Pennsylvania,219
+2012,42,Texas,768
+2012,42,Washington,49
+2012,43,Arizona,139
+2012,43,California,812
+2012,43,Colorado,101
+2012,43,Georgia,364
+2012,43,Illinois,765
+2012,43,New York,124
+2012,43,Pennsylvania,201
+2012,43,Texas,981
+2012,43,Washington,47
+2012,44,Arizona,193
+2012,44,California,853
+2012,44,Colorado,124
+2012,44,Georgia,384
+2012,44,Illinois,836
+2012,44,New York,84
+2012,44,Pennsylvania,213
+2012,44,Texas,1080
+2012,44,Washington,61
+2012,45,Arizona,224
+2012,45,California,909
+2012,45,Colorado,137
+2012,45,Georgia,587
+2012,45,Illinois,923
+2012,45,New York,138
+2012,45,Pennsylvania,235
+2012,45,Texas,1314
+2012,45,Washington,60
+2012,46,Arizona,224
+2012,46,California,857
+2012,46,Colorado,164
+2012,46,Georgia,787
+2012,46,Illinois,885
+2012,46,New York,171
+2012,46,Pennsylvania,236
+2012,46,Texas,1269
+2012,46,Washington,86
+2012,47,Arizona,193
+2012,47,California,639
+2012,47,Colorado,147
+2012,47,Georgia,781
+2012,47,Illinois,853
+2012,47,New York,176
+2012,47,Pennsylvania,208
+2012,47,Texas,1644
+2012,47,Washington,56
+2012,48,Arizona,217
+2012,48,California,946
+2012,48,Colorado,230
+2012,48,Georgia,1086
+2012,48,Illinois,1116
+2012,48,New York,260
+2012,48,Pennsylvania,282
+2012,48,Texas,1692
+2012,48,Washington,75
+2012,49,Arizona,281
+2012,49,California,905
+2012,49,Colorado,300
+2012,49,Georgia,1338
+2012,49,Illinois,1529
+2012,49,New York,380
+2012,49,Pennsylvania,424
+2012,49,Texas,2229
+2012,49,Washington,71
+2012,50,Arizona,344
+2012,50,California,920
+2012,50,Colorado,402
+2012,50,Georgia,1416
+2012,50,Illinois,1995
+2012,50,New York,506
+2012,50,Pennsylvania,566
+2012,50,Texas,2524
+2012,50,Washington,100
+2012,51,Arizona,424
+2012,51,California,1025
+2012,51,Colorado,556
+2012,51,Georgia,1320
+2012,51,Illinois,2271
+2012,51,New York,562
+2012,51,Pennsylvania,629
+2012,51,Texas,3327
+2012,51,Washington,88
+2012,52,Arizona,446
+2012,52,California,957
+2012,52,Colorado,483
+2012,52,Georgia,1427
+2012,52,Illinois,2227
+2012,52,New York,475
+2012,52,Pennsylvania,642
+2012,52,Texas,2924
+2012,52,Washington,99
+2013,1,Arizona,512
+2013,1,California,812
+2013,1,Colorado,492
+2013,1,Georgia,783
+2013,1,Illinois,1903
+2013,1,New York,397
+2013,1,Pennsylvania,539
+2013,1,Texas,3023
+2013,1,Washington,127
+2013,2,Arizona,649
+2013,2,California,1255
+2013,2,Colorado,705
+2013,2,Georgia,1014
+2013,2,Illinois,2008
+2013,2,New York,627
+2013,2,Pennsylvania,762
+2013,2,Texas,3518
+2013,2,Washington,173
+2013,3,Arizona,934
+2013,3,California,1783
+2013,3,Colorado,891
+2013,3,Georgia,818
+2013,3,Illinois,1790
+2013,3,New York,647
+2013,3,Pennsylvania,892
+2013,3,Texas,3430
+2013,3,Washington,231
+2013,4,Arizona,1046
+2013,4,California,2043
+2013,4,Colorado,757
+2013,4,Georgia,605
+2013,4,Illinois,1500
+2013,4,New York,621
+2013,4,Pennsylvania,608
+2013,4,Texas,3284
+2013,4,Washington,181
+2013,5,Arizona,824
+2013,5,California,2349
+2013,5,Colorado,687
+2013,5,Georgia,651
+2013,5,Illinois,1572
+2013,5,New York,468
+2013,5,Pennsylvania,486
+2013,5,Texas,2367
+2013,5,Washington,174
+2013,6,Arizona,730
+2013,6,California,1993
+2013,6,Colorado,593
+2013,6,Georgia,686
+2013,6,Illinois,1381
+2013,6,New York,419
+2013,6,Pennsylvania,412
+2013,6,Texas,1822
+2013,6,Washington,157
+2013,7,Arizona,635
+2013,7,California,1746
+2013,7,Colorado,434
+2013,7,Georgia,636
+2013,7,Illinois,1282
+2013,7,New York,540
+2013,7,Pennsylvania,507
+2013,7,Texas,1514
+2013,7,Washington,114
+2013,8,Arizona,490
+2013,8,California,1365
+2013,8,Colorado,396
+2013,8,Georgia,660
+2013,8,Illinois,1064
+2013,8,New York,551
+2013,8,Pennsylvania,431
+2013,8,Texas,1247
+2013,8,Washington,88
+2013,9,Arizona,421
+2013,9,California,1354
+2013,9,Colorado,331
+2013,9,Georgia,674
+2013,9,Illinois,1194
+2013,9,New York,434
+2013,9,Pennsylvania,452
+2013,9,Texas,1272
+2013,9,Washington,96
+2013,10,Arizona,358
+2013,10,California,1399
+2013,10,Colorado,262
+2013,10,Georgia,754
+2013,10,Illinois,1102
+2013,10,New York,369
+2013,10,Pennsylvania,350
+2013,10,Texas,1350
+2013,10,Washington,80
+2013,11,Arizona,281
+2013,11,California,1159
+2013,11,Colorado,229
+2013,11,Georgia,729
+2013,11,Illinois,1073
+2013,11,New York,378
+2013,11,Pennsylvania,387
+2013,11,Texas,1028
+2013,11,Washington,47
+2013,12,Arizona,239
+2013,12,California,1017
+2013,12,Colorado,156
+2013,12,Georgia,590
+2013,12,Illinois,1039
+2013,12,New York,289
+2013,12,Pennsylvania,296
+2013,12,Texas,1042
+2013,12,Washington,31
+2013,13,Arizona,166
+2013,13,California,871
+2013,13,Colorado,147
+2013,13,Georgia,572
+2013,13,Illinois,954
+2013,13,New York,179
+2013,13,Pennsylvania,222
+2013,13,Texas,913
+2013,13,Washington,41
+2013,14,Arizona,180
+2013,14,California,715
+2013,14,Colorado,133
+2013,14,Georgia,480
+2013,14,Illinois,932
+2013,14,New York,173
+2013,14,Pennsylvania,226
+2013,14,Texas,806
+2013,14,Washington,49
+2013,15,Arizona,188
+2013,15,California,687
+2013,15,Colorado,112
+2013,15,Georgia,327
+2013,15,Illinois,746
+2013,15,New York,162
+2013,15,Pennsylvania,179
+2013,15,Texas,835
+2013,15,Washington,31
+2013,16,Arizona,151
+2013,16,California,609
+2013,16,Colorado,116
+2013,16,Georgia,270
+2013,16,Illinois,724
+2013,16,New York,183
+2013,16,Pennsylvania,154
+2013,16,Texas,847
+2013,16,Washington,25
+2013,17,Arizona,168
+2013,17,California,600
+2013,17,Colorado,122
+2013,17,Georgia,175
+2013,17,Illinois,705
+2013,17,New York,146
+2013,17,Pennsylvania,135
+2013,17,Texas,745
+2013,17,Washington,26
+2013,18,Arizona,186
+2013,18,California,561
+2013,18,Colorado,130
+2013,18,Georgia,152
+2013,18,Illinois,678
+2013,18,New York,115
+2013,18,Pennsylvania,126
+2013,18,Texas,670
+2013,18,Washington,31
+2013,19,Arizona,126
+2013,19,California,528
+2013,19,Colorado,126
+2013,19,Georgia,200
+2013,19,Illinois,664
+2013,19,New York,100
+2013,19,Pennsylvania,111
+2013,19,Texas,702
+2013,19,Washington,17
+2013,20,Arizona,109
+2013,20,California,545
+2013,20,Colorado,103
+2013,20,Georgia,158
+2013,20,Illinois,647
+2013,20,New York,84
+2013,20,Pennsylvania,87
+2013,20,Texas,680
+2013,20,Washington,17
+2013,21,Arizona,93
+2013,21,California,495
+2013,21,Colorado,104
+2013,21,Georgia,154
+2013,21,Illinois,526
+2013,21,New York,62
+2013,21,Pennsylvania,91
+2013,21,Texas,598
+2013,21,Washington,13
+2013,22,Arizona,87
+2013,22,California,390
+2013,22,Colorado,78
+2013,22,Georgia,139
+2013,22,Illinois,531
+2013,22,New York,88
+2013,22,Pennsylvania,86
+2013,22,Texas,585
+2013,22,Washington,18
+2013,23,Arizona,95
+2013,23,California,454
+2013,23,Colorado,76
+2013,23,Georgia,98
+2013,23,Illinois,585
+2013,23,New York,76
+2013,23,Pennsylvania,78
+2013,23,Texas,545
+2013,23,Washington,21
+2013,24,Arizona,97
+2013,24,California,433
+2013,24,Colorado,98
+2013,24,Georgia,91
+2013,24,Illinois,499
+2013,24,New York,68
+2013,24,Pennsylvania,70
+2013,24,Texas,510
+2013,24,Washington,21
+2013,25,Arizona,76
+2013,25,California,407
+2013,25,Colorado,67
+2013,25,Georgia,84
+2013,25,Illinois,473
+2013,25,New York,46
+2013,25,Pennsylvania,57
+2013,25,Texas,644
+2013,25,Washington,19
+2013,26,Arizona,74
+2013,26,California,355
+2013,26,Colorado,84
+2013,26,Georgia,70
+2013,26,Illinois,428
+2013,26,New York,53
+2013,26,Pennsylvania,53
+2013,26,Texas,569
+2013,26,Washington,10
+2013,27,Arizona,58
+2013,27,California,288
+2013,27,Colorado,57
+2013,27,Georgia,82
+2013,27,Illinois,370
+2013,27,New York,45
+2013,27,Pennsylvania,42
+2013,27,Texas,508
+2013,27,Washington,10
+2013,28,Arizona,56
+2013,28,California,334
+2013,28,Colorado,80
+2013,28,Georgia,59
+2013,28,Illinois,418
+2013,28,New York,48
+2013,28,Pennsylvania,61
+2013,28,Texas,547
+2013,28,Washington,12
+2013,29,Arizona,61
+2013,29,California,325
+2013,29,Colorado,72
+2013,29,Georgia,57
+2013,29,Illinois,344
+2013,29,New York,40
+2013,29,Pennsylvania,41
+2013,29,Texas,522
+2013,29,Washington,16
+2013,30,Arizona,73
+2013,30,California,324
+2013,30,Colorado,95
+2013,30,Georgia,81
+2013,30,Illinois,366
+2013,30,New York,56
+2013,30,Pennsylvania,40
+2013,30,Texas,469
+2013,30,Washington,11
+2013,31,Arizona,77
+2013,31,California,299
+2013,31,Colorado,77
+2013,31,Georgia,67
+2013,31,Illinois,332
+2013,31,New York,30
+2013,31,Pennsylvania,48
+2013,31,Texas,518
+2013,31,Washington,5
+2013,32,Arizona,101
+2013,32,California,299
+2013,32,Colorado,91
+2013,32,Georgia,81
+2013,32,Illinois,321
+2013,32,New York,40
+2013,32,Pennsylvania,51
+2013,32,Texas,425
+2013,32,Washington,7
+2013,33,Arizona,109
+2013,33,California,285
+2013,33,Colorado,93
+2013,33,Georgia,97
+2013,33,Illinois,385
+2013,33,New York,27
+2013,33,Pennsylvania,53
+2013,33,Texas,491
+2013,33,Washington,8
+2013,34,Arizona,66
+2013,34,California,294
+2013,34,Colorado,98
+2013,34,Georgia,143
+2013,34,Illinois,363
+2013,34,New York,34
+2013,34,Pennsylvania,41
+2013,34,Texas,542
+2013,34,Washington,11
+2013,35,Arizona,113
+2013,35,California,389
+2013,35,Colorado,0
+2013,35,Georgia,147
+2013,35,Illinois,383
+2013,35,New York,33
+2013,35,Pennsylvania,44
+2013,35,Texas,741
+2013,35,Washington,9
+2013,36,Arizona,80
+2013,36,California,354
+2013,36,Colorado,128
+2013,36,Georgia,187
+2013,36,Illinois,439
+2013,36,New York,26
+2013,36,Pennsylvania,51
+2013,36,Texas,908
+2013,36,Washington,6
+2013,37,Arizona,81
+2013,37,California,440
+2013,37,Colorado,124
+2013,37,Georgia,217
+2013,37,Illinois,560
+2013,37,New York,30
+2013,37,Pennsylvania,89
+2013,37,Texas,1129
+2013,37,Washington,11
+2013,38,Arizona,77
+2013,38,California,451
+2013,38,Colorado,125
+2013,38,Georgia,239
+2013,38,Illinois,578
+2013,38,New York,29
+2013,38,Pennsylvania,86
+2013,38,Texas,1181
+2013,38,Washington,11
+2013,39,Arizona,82
+2013,39,California,530
+2013,39,Colorado,123
+2013,39,Georgia,242
+2013,39,Illinois,562
+2013,39,New York,24
+2013,39,Pennsylvania,78
+2013,39,Texas,1256
+2013,39,Washington,18
+2013,40,Arizona,230
+2013,40,California,633
+2013,40,Colorado,142
+2013,40,Georgia,380
+2013,40,Illinois,859
+2013,40,New York,88
+2013,40,Pennsylvania,137
+2013,40,Texas,954
+2013,40,Washington,40
+2013,41,Arizona,291
+2013,41,California,744
+2013,41,Colorado,135
+2013,41,Georgia,333
+2013,41,Illinois,932
+2013,41,New York,81
+2013,41,Pennsylvania,142
+2013,41,Texas,1078
+2013,41,Washington,35
+2013,42,Arizona,302
+2013,42,California,687
+2013,42,Colorado,110
+2013,42,Georgia,355
+2013,42,Illinois,937
+2013,42,New York,85
+2013,42,Pennsylvania,120
+2013,42,Texas,1087
+2013,42,Washington,33
+2013,43,Arizona,249
+2013,43,California,744
+2013,43,Colorado,171
+2013,43,Georgia,418
+2013,43,Illinois,1036
+2013,43,New York,118
+2013,43,Pennsylvania,147
+2013,43,Texas,1102
+2013,43,Washington,43
+2013,44,Arizona,303
+2013,44,California,828
+2013,44,Colorado,117
+2013,44,Georgia,512
+2013,44,Illinois,1072
+2013,44,New York,112
+2013,44,Pennsylvania,143
+2013,44,Texas,1118
+2013,44,Washington,40
+2013,45,Arizona,327
+2013,45,California,977
+2013,45,Colorado,154
+2013,45,Georgia,557
+2013,45,Illinois,1069
+2013,45,New York,138
+2013,45,Pennsylvania,139
+2013,45,Texas,1202
+2013,45,Washington,28
+2013,46,Arizona,293
+2013,46,California,888
+2013,46,Colorado,132
+2013,46,Georgia,580
+2013,46,Illinois,1060
+2013,46,New York,130
+2013,46,Pennsylvania,141
+2013,46,Texas,1649
+2013,46,Washington,29
+2013,47,Arizona,377
+2013,47,California,868
+2013,47,Colorado,169
+2013,47,Georgia,742
+2013,47,Illinois,1095
+2013,47,New York,142
+2013,47,Pennsylvania,118
+2013,47,Texas,1975
+2013,47,Washington,23
+2013,48,Arizona,284
+2013,48,California,702
+2013,48,Colorado,127
+2013,48,Georgia,691
+2013,48,Illinois,1012
+2013,48,New York,118
+2013,48,Pennsylvania,85
+2013,48,Texas,1576
+2013,48,Washington,34
+2013,49,Arizona,378
+2013,49,California,970
+2013,49,Colorado,276
+2013,49,Georgia,913
+2013,49,Illinois,1371
+2013,49,New York,173
+2013,49,Pennsylvania,164
+2013,49,Texas,2492
+2013,49,Washington,41
+2013,50,Arizona,366
+2013,50,California,1080
+2013,50,Colorado,316
+2013,50,Georgia,868
+2013,50,Illinois,1337
+2013,50,New York,174
+2013,50,Pennsylvania,157
+2013,50,Texas,2797
+2013,50,Washington,47
+2013,51,Arizona,496
+2013,51,California,1137
+2013,51,Colorado,443
+2013,51,Georgia,1218
+2013,51,Illinois,1627
+2013,51,New York,193
+2013,51,Pennsylvania,177
+2013,51,Texas,4616
+2013,51,Washington,48
+2013,52,Arizona,381
+2013,52,California,1107
+2013,52,Colorado,468
+2013,52,Georgia,1165
+2013,52,Illinois,1920
+2013,52,New York,259
+2013,52,Pennsylvania,231
+2013,52,Texas,3594
+2013,52,Washington,51
+2014,1,Arizona,470
+2014,1,California,1397
+2014,1,Colorado,512
+2014,1,Georgia,961
+2014,1,Illinois,1995
+2014,1,New York,258
+2014,1,Pennsylvania,222
+2014,1,Texas,3415
+2014,1,Washington,71
+2014,2,Arizona,575
+2014,2,California,1866
+2014,2,Colorado,571
+2014,2,Georgia,735
+2014,2,Illinois,1716
+2014,2,New York,278
+2014,2,Pennsylvania,243
+2014,2,Texas,3160
+2014,2,Washington,127
+2014,3,Arizona,844
+2014,3,California,1903
+2014,3,Colorado,488
+2014,3,Georgia,637
+2014,3,Illinois,1712
+2014,3,New York,450
+2014,3,Pennsylvania,335
+2014,3,Texas,2495
+2014,3,Washington,117
+2014,4,Arizona,874
+2014,4,California,2005
+2014,4,Colorado,424
+2014,4,Georgia,472
+2014,4,Illinois,1538
+2014,4,New York,459
+2014,4,Pennsylvania,366
+2014,4,Texas,2046
+2014,4,Washington,117
+2014,5,Arizona,906
+2014,5,California,1813
+2014,5,Colorado,377
+2014,5,Georgia,457
+2014,5,Illinois,1240
+2014,5,New York,574
+2014,5,Pennsylvania,352
+2014,5,Texas,1920
+2014,5,Washington,82
+2014,6,Arizona,740
+2014,6,California,1628
+2014,6,Colorado,357
+2014,6,Georgia,343
+2014,6,Illinois,1120
+2014,6,New York,586
+2014,6,Pennsylvania,291
+2014,6,Texas,1774
+2014,6,Washington,78
+2014,7,Arizona,705
+2014,7,California,1357
+2014,7,Colorado,292
+2014,7,Georgia,205
+2014,7,Illinois,1146
+2014,7,New York,449
+2014,7,Pennsylvania,260
+2014,7,Texas,1659
+2014,7,Washington,69
+2014,8,Arizona,578
+2014,8,California,1176
+2014,8,Colorado,236
+2014,8,Georgia,188
+2014,8,Illinois,1182
+2014,8,New York,304
+2014,8,Pennsylvania,268
+2014,8,Texas,1713
+2014,8,Washington,67
+2014,9,Arizona,581
+2014,9,California,1165
+2014,9,Colorado,263
+2014,9,Georgia,234
+2014,9,Illinois,1186
+2014,9,New York,271
+2014,9,Pennsylvania,247
+2014,9,Texas,1677
+2014,9,Washington,28
+2014,10,Arizona,446
+2014,10,California,1034
+2014,10,Colorado,223
+2014,10,Georgia,168
+2014,10,Illinois,1033
+2014,10,New York,296
+2014,10,Pennsylvania,192
+2014,10,Texas,1555
+2014,10,Washington,35
+2014,11,Arizona,352
+2014,11,California,882
+2014,11,Colorado,215
+2014,11,Georgia,160
+2014,11,Illinois,1101
+2014,11,New York,277
+2014,11,Pennsylvania,192
+2014,11,Texas,1323
+2014,11,Washington,29
+2014,12,Arizona,356
+2014,12,California,892
+2014,12,Colorado,163
+2014,12,Georgia,153
+2014,12,Illinois,975
+2014,12,New York,338
+2014,12,Pennsylvania,195
+2014,12,Texas,1386
+2014,12,Washington,28
+2014,13,Arizona,317
+2014,13,California,685
+2014,13,Colorado,140
+2014,13,Georgia,182
+2014,13,Illinois,1126
+2014,13,New York,471
+2014,13,Pennsylvania,192
+2014,13,Texas,1338
+2014,13,Washington,28
+2014,14,Arizona,259
+2014,14,California,672
+2014,14,Colorado,144
+2014,14,Georgia,167
+2014,14,Illinois,1158
+2014,14,New York,460
+2014,14,Pennsylvania,254
+2014,14,Texas,1277
+2014,14,Washington,27
+2014,15,Arizona,293
+2014,15,California,655
+2014,15,Colorado,160
+2014,15,Georgia,99
+2014,15,Illinois,1181
+2014,15,New York,501
+2014,15,Pennsylvania,216
+2014,15,Texas,1343
+2014,15,Washington,22
+2014,16,Arizona,325
+2014,16,California,611
+2014,16,Colorado,144
+2014,16,Georgia,106
+2014,16,Illinois,1006
+2014,16,New York,321
+2014,16,Pennsylvania,157
+2014,16,Texas,1204
+2014,16,Washington,29
+2014,17,Arizona,273
+2014,17,California,602
+2014,17,Colorado,129
+2014,17,Georgia,143
+2014,17,Illinois,1093
+2014,17,New York,232
+2014,17,Pennsylvania,134
+2014,17,Texas,1128
+2014,17,Washington,29
+2014,18,Arizona,292
+2014,18,California,562
+2014,18,Colorado,146
+2014,18,Georgia,105
+2014,18,Illinois,956
+2014,18,New York,253
+2014,18,Pennsylvania,118
+2014,18,Texas,963
+2014,18,Washington,17
+2014,19,Arizona,311
+2014,19,California,551
+2014,19,Colorado,3
+2014,19,Georgia,95
+2014,19,Illinois,1055
+2014,19,New York,216
+2014,19,Pennsylvania,142
+2014,19,Texas,982
+2014,19,Washington,25
+2014,20,Arizona,286
+2014,20,California,569
+2014,20,Colorado,8
+2014,20,Georgia,88
+2014,20,Illinois,808
+2014,20,New York,201
+2014,20,Pennsylvania,123
+2014,20,Texas,978
+2014,20,Washington,15
+2014,21,Arizona,263
+2014,21,California,563
+2014,21,Colorado,5
+2014,21,Georgia,60
+2014,21,Illinois,794
+2014,21,New York,148
+2014,21,Pennsylvania,128
+2014,21,Texas,1028
+2014,21,Washington,21
+2014,22,Arizona,226
+2014,22,California,454
+2014,22,Colorado,4
+2014,22,Georgia,67
+2014,22,Illinois,757
+2014,22,New York,90
+2014,22,Pennsylvania,112
+2014,22,Texas,896
+2014,22,Washington,11
+2014,23,Arizona,166
+2014,23,California,531
+2014,23,Colorado,11
+2014,23,Georgia,57
+2014,23,Illinois,761
+2014,23,New York,116
+2014,23,Pennsylvania,125
+2014,23,Texas,879
+2014,23,Washington,14
+2014,24,Arizona,146
+2014,24,California,508
+2014,24,Colorado,13
+2014,24,Georgia,36
+2014,24,Illinois,678
+2014,24,New York,144
+2014,24,Pennsylvania,104
+2014,24,Texas,784
+2014,24,Washington,15
+2014,25,Arizona,132
+2014,25,California,458
+2014,25,Colorado,17
+2014,25,Georgia,1
+2014,25,Illinois,660
+2014,25,New York,126
+2014,25,Pennsylvania,67
+2014,25,Texas,678
+2014,25,Washington,14
+2014,26,Arizona,126
+2014,26,California,473
+2014,26,Colorado,20
+2014,26,Georgia,1
+2014,26,Illinois,461
+2014,26,New York,96
+2014,26,Pennsylvania,92
+2014,26,Texas,657
+2014,26,Washington,12
+2014,27,Arizona,104
+2014,27,California,405
+2014,27,Colorado,18
+2014,27,Georgia,11
+2014,27,Illinois,347
+2014,27,New York,90
+2014,27,Pennsylvania,57
+2014,27,Texas,544
+2014,27,Washington,5
+2014,28,Arizona,130
+2014,28,California,402
+2014,28,Colorado,9
+2014,28,Georgia,13
+2014,28,Illinois,392
+2014,28,New York,69
+2014,28,Pennsylvania,85
+2014,28,Texas,634
+2014,28,Washington,9
+2014,29,Arizona,157
+2014,29,California,382
+2014,29,Colorado,12
+2014,29,Georgia,19
+2014,29,Illinois,351
+2014,29,New York,84
+2014,29,Pennsylvania,56
+2014,29,Texas,564
+2014,29,Washington,7
+2014,30,Arizona,142
+2014,30,California,325
+2014,30,Colorado,7
+2014,30,Georgia,13
+2014,30,Illinois,343
+2014,30,New York,69
+2014,30,Pennsylvania,61
+2014,30,Texas,496
+2014,30,Washington,6
+2014,31,Arizona,126
+2014,31,California,339
+2014,31,Colorado,10
+2014,31,Georgia,22
+2014,31,Illinois,331
+2014,31,New York,83
+2014,31,Pennsylvania,92
+2014,31,Texas,532
+2014,31,Washington,15
+2014,32,Arizona,134
+2014,32,California,267
+2014,32,Colorado,12
+2014,32,Georgia,24
+2014,32,Illinois,338
+2014,32,New York,60
+2014,32,Pennsylvania,41
+2014,32,Texas,452
+2014,32,Washington,8
+2014,33,Arizona,150
+2014,33,California,242
+2014,33,Colorado,16
+2014,33,Georgia,34
+2014,33,Illinois,351
+2014,33,New York,58
+2014,33,Pennsylvania,72
+2014,33,Texas,469
+2014,33,Washington,7
+2014,34,Arizona,162
+2014,34,California,291
+2014,34,Colorado,18
+2014,34,Georgia,39
+2014,34,Illinois,410
+2014,34,New York,50
+2014,34,Pennsylvania,68
+2014,34,Texas,536
+2014,34,Washington,10
+2014,35,Arizona,178
+2014,35,California,357
+2014,35,Colorado,26
+2014,35,Georgia,30
+2014,35,Illinois,362
+2014,35,New York,66
+2014,35,Pennsylvania,74
+2014,35,Texas,551
+2014,35,Washington,4
+2014,36,Arizona,183
+2014,36,California,348
+2014,36,Colorado,12
+2014,36,Georgia,34
+2014,36,Illinois,559
+2014,36,New York,36
+2014,36,Pennsylvania,90
+2014,36,Texas,583
+2014,36,Washington,10
+2014,37,Arizona,220
+2014,37,California,481
+2014,37,Colorado,19
+2014,37,Georgia,61
+2014,37,Illinois,984
+2014,37,New York,91
+2014,37,Pennsylvania,131
+2014,37,Texas,792
+2014,37,Washington,13
+2014,38,Arizona,245
+2014,38,California,487
+2014,38,Colorado,15
+2014,38,Georgia,39
+2014,38,Illinois,966
+2014,38,New York,126
+2014,38,Pennsylvania,149
+2014,38,Texas,784
+2014,38,Washington,21
+2014,39,Arizona,221
+2014,39,California,453
+2014,39,Colorado,13
+2014,39,Georgia,47
+2014,39,Illinois,801
+2014,39,New York,108
+2014,39,Pennsylvania,151
+2014,39,Texas,828
+2014,39,Washington,12
+2014,40,Arizona,299
+2014,40,California,831
+2014,40,Colorado,19
+2014,40,Georgia,95
+2014,40,Illinois,853
+2014,40,New York,124
+2014,40,Pennsylvania,137
+2014,40,Texas,623
+2014,40,Washington,19
+2014,41,Arizona,238
+2014,41,California,936
+2014,41,Colorado,15
+2014,41,Georgia,101
+2014,41,Illinois,831
+2014,41,New York,110
+2014,41,Pennsylvania,159
+2014,41,Texas,672
+2014,41,Washington,64
+2014,42,Arizona,283
+2014,42,California,886
+2014,42,Colorado,18
+2014,42,Georgia,155
+2014,42,Illinois,929
+2014,42,New York,138
+2014,42,Pennsylvania,166
+2014,42,Texas,761
+2014,42,Washington,38
+2014,43,Arizona,289
+2014,43,California,873
+2014,43,Colorado,17
+2014,43,Georgia,195
+2014,43,Illinois,899
+2014,43,New York,160
+2014,43,Pennsylvania,195
+2014,43,Texas,860
+2014,43,Washington,30
+2014,44,Arizona,272
+2014,44,California,844
+2014,44,Colorado,20
+2014,44,Georgia,182
+2014,44,Illinois,979
+2014,44,New York,178
+2014,44,Pennsylvania,170
+2014,44,Texas,861
+2014,44,Washington,26
+2014,45,Arizona,325
+2014,45,California,1048
+2014,45,Colorado,15
+2014,45,Georgia,296
+2014,45,Illinois,1109
+2014,45,New York,210
+2014,45,Pennsylvania,204
+2014,45,Texas,885
+2014,45,Washington,26
+2014,46,Arizona,318
+2014,46,California,858
+2014,46,Colorado,15
+2014,46,Georgia,402
+2014,46,Illinois,1212
+2014,46,New York,191
+2014,46,Pennsylvania,217
+2014,46,Texas,765
+2014,46,Washington,34
+2014,47,Arizona,325
+2014,47,California,1176
+2014,47,Colorado,6
+2014,47,Georgia,740
+2014,47,Illinois,1378
+2014,47,New York,259
+2014,47,Pennsylvania,223
+2014,47,Texas,1556
+2014,47,Washington,35
+2014,48,Arizona,272
+2014,48,California,840
+2014,48,Colorado,10
+2014,48,Georgia,590
+2014,48,Illinois,1810
+2014,48,New York,218
+2014,48,Pennsylvania,246
+2014,48,Texas,1390
+2014,48,Washington,23
+2014,49,Arizona,385
+2014,49,California,1129
+2014,49,Colorado,31
+2014,49,Georgia,854
+2014,49,Illinois,2687
+2014,49,New York,259
+2014,49,Pennsylvania,290
+2014,49,Texas,2030
+2014,49,Washington,47
+2014,50,Arizona,425
+2014,50,California,1151
+2014,50,Colorado,46
+2014,50,Georgia,1297
+2014,50,Illinois,3463
+2014,50,New York,267
+2014,50,Pennsylvania,424
+2014,50,Texas,2414
+2014,50,Washington,58
+2014,51,Arizona,446
+2014,51,California,1171
+2014,51,Colorado,63
+2014,51,Georgia,1615
+2014,51,Illinois,3569
+2014,51,New York,398
+2014,51,Pennsylvania,676
+2014,51,Texas,2595
+2014,51,Washington,80
+2014,52,Arizona,313
+2014,52,California,1048
+2014,52,Colorado,105
+2014,52,Georgia,1719
+2014,52,Illinois,2308
+2014,52,New York,592
+2014,52,Pennsylvania,756
+2014,52,Texas,1242
+2014,52,Washington,47
+2014,53,Arizona,424
+2014,53,California,1284
+2014,53,Colorado,89
+2014,53,Georgia,570
+2014,53,Illinois,2035
+2014,53,New York,418
+2014,53,Pennsylvania,625
+2014,53,Texas,1684
+2014,53,Washington,44
+2015,1,Arizona,639
+2015,1,California,1865
+2015,1,Colorado,134
+2015,1,Georgia,762
+2015,1,Illinois,1397
+2015,1,New York,370
+2015,1,Pennsylvania,558
+2015,1,Texas,1776
+2015,1,Washington,158
+2015,2,Arizona,674
+2015,2,California,2065
+2015,2,Colorado,100
+2015,2,Georgia,480
+2015,2,Illinois,1120
+2015,2,New York,526
+2015,2,Pennsylvania,577
+2015,2,Texas,2675
+2015,2,Washington,202
+2015,3,Arizona,763
+2015,3,California,2140
+2015,3,Colorado,102
+2015,3,Georgia,588
+2015,3,Illinois,1158
+2015,3,New York,635
+2015,3,Pennsylvania,893
+2015,3,Texas,2984
+2015,3,Washington,156
+2015,4,Arizona,858
+2015,4,California,2452
+2015,4,Colorado,118
+2015,4,Georgia,551
+2015,4,Illinois,1153
+2015,4,New York,744
+2015,4,Pennsylvania,774
+2015,4,Texas,2652
+2015,4,Washington,144
+2015,5,Arizona,703
+2015,5,California,2192
+2015,5,Colorado,81
+2015,5,Georgia,530
+2015,5,Illinois,1030
+2015,5,New York,700
+2015,5,Pennsylvania,666
+2015,5,Texas,2351
+2015,5,Washington,111
+2015,6,Arizona,528
+2015,6,California,1774
+2015,6,Colorado,67
+2015,6,Georgia,500
+2015,6,Illinois,1288
+2015,6,New York,666
+2015,6,Pennsylvania,477
+2015,6,Texas,2104
+2015,6,Washington,83
+2015,7,Arizona,563
+2015,7,California,1396
+2015,7,Colorado,70
+2015,7,Georgia,675
+2015,7,Illinois,1232
+2015,7,New York,403
+2015,7,Pennsylvania,366
+2015,7,Texas,1953
+2015,7,Washington,39
+2015,8,Arizona,532
+2015,8,California,1488
+2015,8,Colorado,55
+2015,8,Georgia,665
+2015,8,Illinois,1285
+2015,8,New York,305
+2015,8,Pennsylvania,331
+2015,8,Texas,1580
+2015,8,Washington,54
+2015,9,Arizona,457
+2015,9,California,1369
+2015,9,Colorado,37
+2015,9,Georgia,592
+2015,9,Illinois,1359
+2015,9,New York,278
+2015,9,Pennsylvania,333
+2015,9,Texas,1751
+2015,9,Washington,52
+2015,10,Arizona,365
+2015,10,California,1472
+2015,10,Colorado,43
+2015,10,Georgia,422
+2015,10,Illinois,1484
+2015,10,New York,191
+2015,10,Pennsylvania,221
+2015,10,Texas,1577
+2015,10,Washington,53
+2015,11,Arizona,402
+2015,11,California,1278
+2015,11,Colorado,51
+2015,11,Georgia,398
+2015,11,Illinois,1562
+2015,11,New York,226
+2015,11,Pennsylvania,256
+2015,11,Texas,1374
+2015,11,Washington,37
+2015,12,Arizona,336
+2015,12,California,1097
+2015,12,Colorado,27
+2015,12,Georgia,432
+2015,12,Illinois,1549
+2015,12,New York,237
+2015,12,Pennsylvania,261
+2015,12,Texas,1362
+2015,12,Washington,35
+2015,13,Arizona,333
+2015,13,California,1050
+2015,13,Colorado,30
+2015,13,Georgia,367
+2015,13,Illinois,1547
+2015,13,New York,244
+2015,13,Pennsylvania,225
+2015,13,Texas,1182
+2015,13,Washington,39
+2015,14,Arizona,280
+2015,14,California,950
+2015,14,Colorado,18
+2015,14,Georgia,297
+2015,14,Illinois,1358
+2015,14,New York,199
+2015,14,Pennsylvania,224
+2015,14,Texas,1024
+2015,14,Washington,19
+2015,15,Arizona,316
+2015,15,California,906
+2015,15,Colorado,29
+2015,15,Georgia,255
+2015,15,Illinois,1142
+2015,15,New York,184
+2015,15,Pennsylvania,219
+2015,15,Texas,1051
+2015,15,Washington,33
+2015,16,Arizona,250
+2015,16,California,858
+2015,16,Colorado,19
+2015,16,Georgia,129
+2015,16,Illinois,922
+2015,16,New York,150
+2015,16,Pennsylvania,193
+2015,16,Texas,654
+2015,16,Washington,33
+2015,17,Arizona,320
+2015,17,California,912
+2015,17,Colorado,22
+2015,17,Georgia,216
+2015,17,Illinois,937
+2015,17,New York,155
+2015,17,Pennsylvania,207
+2015,17,Texas,1000
+2015,17,Washington,22
+2015,18,Arizona,247
+2015,18,California,910
+2015,18,Colorado,21
+2015,18,Georgia,225
+2015,18,Illinois,878
+2015,18,New York,185
+2015,18,Pennsylvania,177
+2015,18,Texas,895
+2015,18,Washington,20
+2015,19,Arizona,231
+2015,19,California,905
+2015,19,Colorado,17
+2015,19,Georgia,293
+2015,19,Illinois,752
+2015,19,New York,113
+2015,19,Pennsylvania,132
+2015,19,Texas,821
+2015,19,Washington,28
+2015,20,Arizona,203
+2015,20,California,768
+2015,20,Colorado,8
+2015,20,Georgia,332
+2015,20,Illinois,742
+2015,20,New York,101
+2015,20,Pennsylvania,117
+2015,20,Texas,838
+2015,20,Washington,4
+2015,21,Arizona,148
+2015,21,California,643
+2015,21,Colorado,6
+2015,21,Georgia,291
+2015,21,Illinois,562
+2015,21,New York,93
+2015,21,Pennsylvania,131
+2015,21,Texas,620
+2015,21,Washington,15
+2015,22,Arizona,175
+2015,22,California,680
+2015,22,Colorado,8
+2015,22,Georgia,217
+2015,22,Illinois,558
+2015,22,New York,107
+2015,22,Pennsylvania,103
+2015,22,Texas,490
+2015,22,Washington,22
+2015,23,Arizona,184
+2015,23,California,576
+2015,23,Colorado,9
+2015,23,Georgia,185
+2015,23,Illinois,521
+2015,23,New York,73
+2015,23,Pennsylvania,114
+2015,23,Texas,546
+2015,23,Washington,14
+2015,24,Arizona,161
+2015,24,California,507
+2015,24,Colorado,7
+2015,24,Georgia,117
+2015,24,Illinois,435
+2015,24,New York,26
+2015,24,Pennsylvania,88
+2015,24,Texas,513
+2015,24,Washington,12
+2015,25,Arizona,115
+2015,25,California,459
+2015,25,Colorado,11
+2015,25,Georgia,129
+2015,25,Illinois,548
+2015,25,New York,49
+2015,25,Pennsylvania,88
+2015,25,Texas,450
+2015,25,Washington,10
+2015,26,Arizona,119
+2015,26,California,393
+2015,26,Colorado,8
+2015,26,Georgia,136
+2015,26,Illinois,448
+2015,26,New York,60
+2015,26,Pennsylvania,88
+2015,26,Texas,414
+2015,26,Washington,9
+2015,27,Arizona,118
+2015,27,California,420
+2015,27,Colorado,9
+2015,27,Georgia,132
+2015,27,Illinois,435
+2015,27,New York,71
+2015,27,Pennsylvania,112
+2015,27,Texas,383
+2015,27,Washington,12
+2015,28,Arizona,125
+2015,28,California,339
+2015,28,Colorado,8
+2015,28,Georgia,117
+2015,28,Illinois,437
+2015,28,New York,69
+2015,28,Pennsylvania,83
+2015,28,Texas,371
+2015,28,Washington,10
+2015,29,Arizona,114
+2015,29,California,293
+2015,29,Colorado,13
+2015,29,Georgia,114
+2015,29,Illinois,415
+2015,29,New York,50
+2015,29,Pennsylvania,84
+2015,29,Texas,388
+2015,29,Washington,0
+2015,30,Arizona,131
+2015,30,California,282
+2015,30,Colorado,18
+2015,30,Georgia,136
+2015,30,Illinois,432
+2015,30,New York,71
+2015,30,Pennsylvania,68
+2015,30,Texas,265
+2015,30,Washington,6
+2015,31,Arizona,118
+2015,31,California,283
+2015,31,Colorado,11
+2015,31,Georgia,119
+2015,31,Illinois,438
+2015,31,New York,81
+2015,31,Pennsylvania,93
+2015,31,Texas,353
+2015,31,Washington,4
+2015,32,Arizona,109
+2015,32,California,351
+2015,32,Colorado,10
+2015,32,Georgia,183
+2015,32,Illinois,412
+2015,32,New York,80
+2015,32,Pennsylvania,65
+2015,32,Texas,355
+2015,32,Washington,5
+2015,33,Arizona,193
+2015,33,California,350
+2015,33,Colorado,14
+2015,33,Georgia,248
+2015,33,Illinois,384
+2015,33,New York,52
+2015,33,Pennsylvania,84
+2015,33,Texas,542
+2015,33,Washington,7
+2015,34,Arizona,190
+2015,34,California,431
+2015,34,Colorado,22
+2015,34,Georgia,302
+2015,34,Illinois,450
+2015,34,New York,88
+2015,34,Pennsylvania,88
+2015,34,Texas,402
+2015,34,Washington,6
+2015,35,Arizona,158
+2015,35,California,419
+2015,35,Colorado,14
+2015,35,Georgia,321
+2015,35,Illinois,428
+2015,35,New York,50
+2015,35,Pennsylvania,119
+2015,35,Texas,531
+2015,35,Washington,10
+2015,36,Arizona,133
+2015,36,California,218
+2015,36,Colorado,10
+2015,36,Georgia,371
+2015,36,Illinois,500
+2015,36,New York,41
+2015,36,Pennsylvania,110
+2015,36,Texas,578
+2015,36,Washington,5
+2015,37,Arizona,202
+2015,37,California,471
+2015,37,Colorado,15
+2015,37,Georgia,334
+2015,37,Illinois,643
+2015,37,New York,84
+2015,37,Pennsylvania,157
+2015,37,Texas,641
+2015,37,Washington,15
+2015,38,Arizona,225
+2015,38,California,463
+2015,38,Colorado,21
+2015,38,Georgia,357
+2015,38,Illinois,609
+2015,38,New York,71
+2015,38,Pennsylvania,143
+2015,38,Texas,710
+2015,38,Washington,14
+2015,39,Arizona,169
+2015,39,California,348
+2015,39,Colorado,13
+2015,39,Georgia,431
+2015,39,Illinois,542
+2015,39,New York,23
+2015,39,Pennsylvania,112
+2015,39,Texas,775
+2015,39,Washington,30
+2015,40,Arizona,290
+2015,40,California,558
+2015,40,Colorado,17
+2015,40,Georgia,385
+2015,40,Illinois,833
+2015,40,New York,70
+2015,40,Pennsylvania,203
+2015,40,Texas,1016
+2015,40,Washington,32
+2015,41,Arizona,360
+2015,41,California,653
+2015,41,Colorado,23
+2015,41,Georgia,360
+2015,41,Illinois,908
+2015,41,New York,62
+2015,41,Pennsylvania,228
+2015,41,Texas,1084
+2015,41,Washington,40
+2015,42,Arizona,396
+2015,42,California,677
+2015,42,Colorado,19
+2015,42,Georgia,318
+2015,42,Illinois,806
+2015,42,New York,115
+2015,42,Pennsylvania,230
+2015,42,Texas,1162
+2015,42,Washington,21
+2015,43,Arizona,404
+2015,43,California,715
+2015,43,Colorado,18
+2015,43,Georgia,257
+2015,43,Illinois,842
+2015,43,New York,107
+2015,43,Pennsylvania,222
+2015,43,Texas,1152
+2015,43,Washington,55
+2015,44,Arizona,415
+2015,44,California,800
+2015,44,Colorado,11
+2015,44,Georgia,370
+2015,44,Illinois,920
+2015,44,New York,89
+2015,44,Pennsylvania,246
+2015,44,Texas,1143
+2015,44,Washington,24
+2015,45,Arizona,438
+2015,45,California,782
+2015,45,Colorado,15
+2015,45,Georgia,344
+2015,45,Illinois,1020
+2015,45,New York,97
+2015,45,Pennsylvania,248
+2015,45,Texas,1214
+2015,45,Washington,21
+2015,46,Arizona,496
+2015,46,California,996
+2015,46,Colorado,21
+2015,46,Georgia,431
+2015,46,Illinois,978
+2015,46,New York,159
+2015,46,Pennsylvania,240
+2015,46,Texas,1266
+2015,46,Washington,22
+2015,47,Arizona,348
+2015,47,California,687
+2015,47,Colorado,15
+2015,47,Georgia,326
+2015,47,Illinois,830
+2015,47,New York,78
+2015,47,Pennsylvania,214
+2015,47,Texas,1071
+2015,47,Washington,7
+2015,48,Arizona,566
+2015,48,California,936
+2015,48,Colorado,18
+2015,48,Georgia,367
+2015,48,Illinois,1057
+2015,48,New York,141
+2015,48,Pennsylvania,251
+2015,48,Texas,1411
+2015,48,Washington,15
+2015,49,Arizona,503
+2015,49,California,938
+2015,49,Colorado,32
+2015,49,Georgia,406
+2015,49,Illinois,1119
+2015,49,New York,178
+2015,49,Pennsylvania,284
+2015,49,Texas,1320
+2015,49,Washington,27
+2015,50,Arizona,472
+2015,50,California,856
+2015,50,Colorado,18
+2015,50,Georgia,729
+2015,50,Illinois,1008
+2015,50,New York,129
+2015,50,Pennsylvania,298
+2015,50,Texas,1391
+2015,50,Washington,19
+2015,51,Arizona,485
+2015,51,California,723
+2015,51,Colorado,27
+2015,51,Georgia,756
+2015,51,Illinois,1041
+2015,51,New York,126
+2015,51,Pennsylvania,207
+2015,51,Texas,1110
+2015,51,Washington,13
+2015,52,Arizona,395
+2015,52,California,806
+2015,52,Colorado,23
+2015,52,Georgia,687
+2015,52,Illinois,1034
+2015,52,New York,99
+2015,52,Pennsylvania,288
+2015,52,Texas,1274
+2015,52,Washington,20
+2016,1,Arizona,644
+2016,1,California,1077
+2016,1,Colorado,37
+2016,1,Georgia,587
+2016,1,Illinois,1178
+2016,1,New York,92
+2016,1,Pennsylvania,295
+2016,1,Texas,1282
+2016,1,Washington,25
+2016,2,Arizona,678
+2016,2,California,1043
+2016,2,Colorado,34
+2016,2,Georgia,537
+2016,2,Illinois,1217
+2016,2,New York,205
+2016,2,Pennsylvania,288
+2016,2,Texas,1164
+2016,2,Washington,38
+2016,3,Arizona,666
+2016,3,California,1097
+2016,3,Colorado,34
+2016,3,Georgia,625
+2016,3,Illinois,1238
+2016,3,New York,155
+2016,3,Pennsylvania,294
+2016,3,Texas,1318
+2016,3,Washington,49
+2016,4,Arizona,778
+2016,4,California,1347
+2016,4,Colorado,35
+2016,4,Georgia,623
+2016,4,Illinois,1402
+2016,4,New York,167
+2016,4,Pennsylvania,385
+2016,4,Texas,1551
+2016,4,Washington,56
+2016,5,Arizona,892
+2016,5,California,1600
+2016,5,Colorado,35
+2016,5,Georgia,682
+2016,5,Illinois,1551
+2016,5,New York,191
+2016,5,Pennsylvania,389
+2016,5,Texas,1512
+2016,5,Washington,76
+2016,6,Arizona,1297
+2016,6,California,1882
+2016,6,Colorado,52
+2016,6,Georgia,716
+2016,6,Illinois,1699
+2016,6,New York,273
+2016,6,Pennsylvania,368
+2016,6,Texas,1816
+2016,6,Washington,93
+2016,7,Arizona,1181
+2016,7,California,1893
+2016,7,Colorado,56
+2016,7,Georgia,928
+2016,7,Illinois,2003
+2016,7,New York,172
+2016,7,Pennsylvania,294
+2016,7,Texas,2035
+2016,7,Washington,120
+2016,8,Arizona,1181
+2016,8,California,1859
+2016,8,Colorado,66
+2016,8,Georgia,1045
+2016,8,Illinois,1989
+2016,8,New York,288
+2016,8,Pennsylvania,438
+2016,8,Texas,1147
+2016,8,Washington,127
+2016,9,Arizona,1251
+2016,9,California,1804
+2016,9,Colorado,63
+2016,9,Georgia,1141
+2016,9,Illinois,2162
+2016,9,New York,357
+2016,9,Pennsylvania,484
+2016,9,Texas,1203
+2016,9,Washington,87
+2016,10,Arizona,819
+2016,10,California,1636
+2016,10,Colorado,67
+2016,10,Georgia,1323
+2016,10,Illinois,2093
+2016,10,New York,366
+2016,10,Pennsylvania,519
+2016,10,Texas,941
+2016,10,Washington,75
+2016,11,Arizona,813
+2016,11,California,1293
+2016,11,Colorado,64
+2016,11,Georgia,993
+2016,11,Illinois,1642
+2016,11,New York,346
+2016,11,Pennsylvania,458
+2016,11,Texas,749
+2016,11,Washington,44
+2016,12,Arizona,731
+2016,12,California,1201
+2016,12,Colorado,62
+2016,12,Georgia,1101
+2016,12,Illinois,1335
+2016,12,New York,278
+2016,12,Pennsylvania,463
+2016,12,Texas,777
+2016,12,Washington,71
+2016,13,Arizona,528
+2016,13,California,1053
+2016,13,Colorado,43
+2016,13,Georgia,1068
+2016,13,Illinois,1246
+2016,13,New York,113
+2016,13,Pennsylvania,361
+2016,13,Texas,760
+2016,13,Washington,66
+2016,14,Arizona,611
+2016,14,California,938
+2016,14,Colorado,43
+2016,14,Georgia,873
+2016,14,Illinois,1029
+2016,14,New York,97
+2016,14,Pennsylvania,283
+2016,14,Texas,569
+2016,14,Washington,57
+2016,15,Arizona,594
+2016,15,California,855
+2016,15,Colorado,42
+2016,15,Georgia,770
+2016,15,Illinois,955
+2016,15,New York,118
+2016,15,Pennsylvania,288
+2016,15,Texas,789
+2016,15,Washington,42
+2016,16,Arizona,581
+2016,16,California,710
+2016,16,Colorado,40
+2016,16,Georgia,498
+2016,16,Illinois,894
+2016,16,New York,79
+2016,16,Pennsylvania,306
+2016,16,Texas,846
+2016,16,Washington,22
+2016,17,Arizona,476
+2016,17,California,711
+2016,17,Colorado,37
+2016,17,Georgia,685
+2016,17,Illinois,800
+2016,17,New York,68
+2016,17,Pennsylvania,305
+2016,17,Texas,747
+2016,17,Washington,31
+2016,18,Arizona,387
+2016,18,California,726
+2016,18,Colorado,22
+2016,18,Georgia,646
+2016,18,Illinois,664
+2016,18,New York,55
+2016,18,Pennsylvania,214
+2016,18,Texas,617
+2016,18,Washington,20
+2016,19,Arizona,362
+2016,19,California,586
+2016,19,Colorado,25
+2016,19,Georgia,642
+2016,19,Illinois,699
+2016,19,New York,31
+2016,19,Pennsylvania,172
+2016,19,Texas,472
+2016,19,Washington,16
+2016,20,Arizona,363
+2016,20,California,527
+2016,20,Colorado,22
+2016,20,Georgia,669
+2016,20,Illinois,636
+2016,20,New York,23
+2016,20,Pennsylvania,155
+2016,20,Texas,459
+2016,20,Washington,15
+2016,21,Arizona,299
+2016,21,California,515
+2016,21,Colorado,16
+2016,21,Georgia,628
+2016,21,Illinois,540
+2016,21,New York,8
+2016,21,Pennsylvania,144
+2016,21,Texas,518
+2016,21,Washington,8
+2016,22,Arizona,238
+2016,22,California,417
+2016,22,Colorado,9
+2016,22,Georgia,556
+2016,22,Illinois,513
+2016,22,New York,0
+2016,22,Pennsylvania,136
+2016,22,Texas,395
+2016,22,Washington,8
+2016,23,Arizona,302
+2016,23,California,440
+2016,23,Colorado,19
+2016,23,Georgia,448
+2016,23,Illinois,395
+2016,23,New York,0
+2016,23,Pennsylvania,123
+2016,23,Texas,276
+2016,23,Washington,13
+2016,24,Arizona,313
+2016,24,California,395
+2016,24,Colorado,18
+2016,24,Georgia,436
+2016,24,Illinois,310
+2016,24,New York,2
+2016,24,Pennsylvania,95
+2016,24,Texas,362
+2016,24,Washington,8
+2016,25,Arizona,159
+2016,25,California,376
+2016,25,Colorado,12
+2016,25,Georgia,338
+2016,25,Illinois,346
+2016,25,New York,1
+2016,25,Pennsylvania,102
+2016,25,Texas,316
+2016,25,Washington,6
+2016,26,Arizona,165
+2016,26,California,381
+2016,26,Colorado,10
+2016,26,Georgia,340
+2016,26,Illinois,355
+2016,26,New York,1
+2016,26,Pennsylvania,99
+2016,26,Texas,297
+2016,26,Washington,5
+2016,27,Arizona,139
+2016,27,California,299
+2016,27,Colorado,8
+2016,27,Georgia,369
+2016,27,Illinois,289
+2016,27,New York,0
+2016,27,Pennsylvania,71
+2016,27,Texas,248
+2016,27,Washington,6
+2016,28,Arizona,147
+2016,28,California,324
+2016,28,Colorado,10
+2016,28,Georgia,301
+2016,28,Illinois,317
+2016,28,New York,2
+2016,28,Pennsylvania,79
+2016,28,Texas,189
+2016,28,Washington,7
+2016,29,Arizona,160
+2016,29,California,269
+2016,29,Colorado,12
+2016,29,Georgia,269
+2016,29,Illinois,307
+2016,29,New York,0
+2016,29,Pennsylvania,86
+2016,29,Texas,239
+2016,29,Washington,5
+2016,30,Arizona,137
+2016,30,California,262
+2016,30,Colorado,7
+2016,30,Georgia,276
+2016,30,Illinois,295
+2016,30,New York,0
+2016,30,Pennsylvania,83
+2016,30,Texas,261
+2016,30,Washington,6
+2016,31,Arizona,150
+2016,31,California,246
+2016,31,Colorado,9
+2016,31,Georgia,271
+2016,31,Illinois,267
+2016,31,New York,2
+2016,31,Pennsylvania,76
+2016,31,Texas,216
+2016,31,Washington,3
+2016,32,Arizona,58
+2016,32,California,267
+2016,32,Colorado,10
+2016,32,Georgia,419
+2016,32,Illinois,263
+2016,32,New York,0
+2016,32,Pennsylvania,87
+2016,32,Texas,209
+2016,32,Washington,3
+2016,33,Arizona,80
+2016,33,California,310
+2016,33,Colorado,9
+2016,33,Georgia,580
+2016,33,Illinois,275
+2016,33,New York,3
+2016,33,Pennsylvania,74
+2016,33,Texas,224
+2016,33,Washington,4
+2016,34,Arizona,97
+2016,34,California,342
+2016,34,Colorado,16
+2016,34,Georgia,668
+2016,34,Illinois,327
+2016,34,New York,1
+2016,34,Pennsylvania,80
+2016,34,Texas,336
+2016,34,Washington,5
+2016,35,Arizona,100
+2016,35,California,447
+2016,35,Colorado,53
+2016,35,Georgia,618
+2016,35,Illinois,315
+2016,35,New York,0
+2016,35,Pennsylvania,141
+2016,35,Texas,423
+2016,35,Washington,2
+2016,36,Arizona,65
+2016,36,California,398
+2016,36,Colorado,21
+2016,36,Georgia,597
+2016,36,Illinois,396
+2016,36,New York,3
+2016,36,Pennsylvania,112
+2016,36,Texas,534
+2016,36,Washington,4
+2016,37,Arizona,74
+2016,37,California,604
+2016,37,Colorado,40
+2016,37,Georgia,638
+2016,37,Illinois,516
+2016,37,New York,9
+2016,37,Pennsylvania,93
+2016,37,Texas,509
+2016,37,Washington,6
+2016,38,Arizona,84
+2016,38,California,624
+2016,38,Colorado,31
+2016,38,Georgia,709
+2016,38,Illinois,497
+2016,38,New York,2
+2016,38,Pennsylvania,107
+2016,38,Texas,367
+2016,38,Washington,7
+2016,39,Arizona,105
+2016,39,California,636
+2016,39,Colorado,32
+2016,39,Georgia,649
+2016,39,Illinois,623
+2016,39,New York,8
+2016,39,Pennsylvania,127
+2016,39,Texas,400
+2016,39,Washington,7
+2016,40,Arizona,309
+2016,40,California,668
+2016,40,Colorado,22
+2016,40,Georgia,903
+2016,40,Illinois,640
+2016,40,New York,115
+2016,40,Pennsylvania,141
+2016,40,Texas,654
+2016,40,Washington,18
+2016,41,Arizona,262
+2016,41,California,760
+2016,41,Colorado,44
+2016,41,Georgia,1065
+2016,41,Illinois,571
+2016,41,New York,141
+2016,41,Pennsylvania,121
+2016,41,Texas,571
+2016,41,Washington,15
+2016,42,Arizona,321
+2016,42,California,812
+2016,42,Colorado,43
+2016,42,Georgia,1114
+2016,42,Illinois,743
+2016,42,New York,175
+2016,42,Pennsylvania,150
+2016,42,Texas,541
+2016,42,Washington,20
+2016,43,Arizona,303
+2016,43,California,833
+2016,43,Colorado,37
+2016,43,Georgia,1105
+2016,43,Illinois,742
+2016,43,New York,146
+2016,43,Pennsylvania,142
+2016,43,Texas,589
+2016,43,Washington,23
+2016,44,Arizona,265
+2016,44,California,849
+2016,44,Colorado,15
+2016,44,Georgia,1334
+2016,44,Illinois,804
+2016,44,New York,148
+2016,44,Pennsylvania,177
+2016,44,Texas,581
+2016,44,Washington,19
+2016,45,Arizona,245
+2016,45,California,942
+2016,45,Colorado,28
+2016,45,Georgia,1434
+2016,45,Illinois,827
+2016,45,New York,194
+2016,45,Pennsylvania,187
+2016,45,Texas,607
+2016,45,Washington,21
+2016,46,Arizona,389
+2016,46,California,993
+2016,46,Colorado,41
+2016,46,Georgia,1440
+2016,46,Illinois,899
+2016,46,New York,182
+2016,46,Pennsylvania,186
+2016,46,Texas,673
+2016,46,Washington,28
+2016,47,Arizona,218
+2016,47,California,865
+2016,47,Colorado,17
+2016,47,Georgia,1505
+2016,47,Illinois,744
+2016,47,New York,194
+2016,47,Pennsylvania,139
+2016,47,Texas,550
+2016,47,Washington,21
+2016,48,Arizona,333
+2016,48,California,1091
+2016,48,Colorado,67
+2016,48,Georgia,1538
+2016,48,Illinois,860
+2016,48,New York,261
+2016,48,Pennsylvania,173
+2016,48,Texas,696
+2016,48,Washington,30
+2016,49,Arizona,396
+2016,49,California,1114
+2016,49,Colorado,49
+2016,49,Georgia,1486
+2016,49,Illinois,894
+2016,49,New York,223
+2016,49,Pennsylvania,208
+2016,49,Texas,816
+2016,49,Washington,23
+2016,50,Arizona,550
+2016,50,California,1190
+2016,50,Colorado,53
+2016,50,Georgia,1544
+2016,50,Illinois,943
+2016,50,New York,208
+2016,50,Pennsylvania,234
+2016,50,Texas,887
+2016,50,Washington,58
+2016,51,Arizona,591
+2016,51,California,1233
+2016,51,Colorado,66
+2016,51,Georgia,1928
+2016,51,Illinois,978
+2016,51,New York,389
+2016,51,Pennsylvania,215
+2016,51,Texas,951
+2016,51,Washington,73
+2016,52,Arizona,479
+2016,52,California,1419
+2016,52,Colorado,2
+2016,52,Georgia,2084
+2016,52,Illinois,1234
+2016,52,New York,537
+2016,52,Pennsylvania,298
+2016,52,Texas,960
+2016,52,Washington,91
+2017,1,Arizona,540
+2017,1,California,1559
+2017,1,Colorado,65
+2017,1,Georgia,1982
+2017,1,Illinois,1267
+2017,1,New York,584
+2017,1,Pennsylvania,351
+2017,1,Texas,1076
+2017,1,Washington,97
+2017,2,Arizona,585
+2017,2,California,1490
+2017,2,Colorado,55
+2017,2,Georgia,1923
+2017,2,Illinois,1350
+2017,2,New York,736
+2017,2,Pennsylvania,358
+2017,2,Texas,1450
+2017,2,Washington,113
+2017,3,Arizona,567
+2017,3,California,1441
+2017,3,Colorado,79
+2017,3,Georgia,2379
+2017,3,Illinois,1443
+2017,3,New York,913
+2017,3,Pennsylvania,465
+2017,3,Texas,1563
+2017,3,Washington,186
+2017,4,Arizona,569
+2017,4,California,1700
+2017,4,Colorado,70
+2017,4,Georgia,2370
+2017,4,Illinois,1640
+2017,4,New York,1174
+2017,4,Pennsylvania,535
+2017,4,Texas,1868
+2017,4,Washington,130
+2017,5,Arizona,647
+2017,5,California,1667
+2017,5,Colorado,83
+2017,5,Georgia,2666
+2017,5,Illinois,1810
+2017,5,New York,1431
+2017,5,Pennsylvania,655
+2017,5,Texas,2774
+2017,5,Washington,101
+2017,6,Arizona,670
+2017,6,California,1395
+2017,6,Colorado,73
+2017,6,Georgia,3038
+2017,6,Illinois,2297
+2017,6,New York,1466
+2017,6,Pennsylvania,735
+2017,6,Texas,3508
+2017,6,Washington,47
+2017,7,Arizona,549
+2017,7,California,1245
+2017,7,Colorado,8
+2017,7,Georgia,3221
+2017,7,Illinois,2435
+2017,7,New York,1153
+2017,7,Pennsylvania,698
+2017,7,Texas,2592
+2017,7,Washington,41
+2017,8,Arizona,564
+2017,8,California,1080
+2017,8,Colorado,49
+2017,8,Georgia,3464
+2017,8,Illinois,2284
+2017,8,New York,811
+2017,8,Pennsylvania,559
+2017,8,Texas,2635
+2017,8,Washington,34
+2017,9,Arizona,668
+2017,9,California,1082
+2017,9,Colorado,60
+2017,9,Georgia,2479
+2017,9,Illinois,1743
+2017,9,New York,407
+2017,9,Pennsylvania,374
+2017,9,Texas,2256
+2017,9,Washington,35
+2017,10,Arizona,604
+2017,10,California,1091
+2017,10,Colorado,56
+2017,10,Georgia,2487
+2017,10,Illinois,1759
+2017,10,New York,419
+2017,10,Pennsylvania,301
+2017,10,Texas,2107
+2017,10,Washington,20
+2017,11,Arizona,506
+2017,11,California,1155
+2017,11,Colorado,45
+2017,11,Georgia,2683
+2017,11,Illinois,1450
+2017,11,New York,383
+2017,11,Pennsylvania,299
+2017,11,Texas,1403
+2017,11,Washington,26
+2017,12,Arizona,559
+2017,12,California,925
+2017,12,Colorado,60
+2017,12,Georgia,3146
+2017,12,Illinois,1440
+2017,12,New York,505
+2017,12,Pennsylvania,259
+2017,12,Texas,1258
+2017,12,Washington,22
+2017,13,Arizona,542
+2017,13,California,845
+2017,13,Colorado,53
+2017,13,Georgia,2505
+2017,13,Illinois,1348
+2017,13,New York,568
+2017,13,Pennsylvania,309
+2017,13,Texas,1065
+2017,13,Washington,32
+2017,14,Arizona,488
+2017,14,California,809
+2017,14,Colorado,45
+2017,14,Georgia,1503
+2017,14,Illinois,1169
+2017,14,New York,584
+2017,14,Pennsylvania,245
+2017,14,Texas,906
+2017,14,Washington,16
+2017,15,Arizona,380
+2017,15,California,746
+2017,15,Colorado,37
+2017,15,Georgia,1147
+2017,15,Illinois,764
+2017,15,New York,343
+2017,15,Pennsylvania,209
+2017,15,Texas,835
+2017,15,Washington,16
+2017,16,Arizona,462
+2017,16,California,776
+2017,16,Colorado,43
+2017,16,Georgia,1027
+2017,16,Illinois,676
+2017,16,New York,209
+2017,16,Pennsylvania,191
+2017,16,Texas,665
+2017,16,Washington,15
+2017,17,Arizona,420
+2017,17,California,797
+2017,17,Colorado,53
+2017,17,Georgia,905
+2017,17,Illinois,681
+2017,17,New York,217
+2017,17,Pennsylvania,161
+2017,17,Texas,755
+2017,17,Washington,16
+2017,18,Arizona,487
+2017,18,California,660
+2017,18,Colorado,39
+2017,18,Georgia,929
+2017,18,Illinois,617
+2017,18,New York,221
+2017,18,Pennsylvania,148
+2017,18,Texas,665
+2017,18,Washington,12
+2017,19,Arizona,342
+2017,19,California,629
+2017,19,Colorado,23
+2017,19,Georgia,862
+2017,19,Illinois,715
+2017,19,New York,163
+2017,19,Pennsylvania,94
+2017,19,Texas,419
+2017,19,Washington,14
+2017,20,Arizona,444
+2017,20,California,640
+2017,20,Colorado,39
+2017,20,Georgia,804
+2017,20,Illinois,576
+2017,20,New York,154
+2017,20,Pennsylvania,101
+2017,20,Texas,552
+2017,20,Washington,15
+2017,21,Arizona,436
+2017,21,California,551
+2017,21,Colorado,44
+2017,21,Georgia,749
+2017,21,Illinois,485
+2017,21,New York,143
+2017,21,Pennsylvania,69
+2017,21,Texas,471
+2017,21,Washington,9
+2017,22,Arizona,314
+2017,22,California,449
+2017,22,Colorado,2
+2017,22,Georgia,608
+2017,22,Illinois,417
+2017,22,New York,101
+2017,22,Pennsylvania,73
+2017,22,Texas,360
+2017,22,Washington,13
+2017,23,Arizona,318
+2017,23,California,608
+2017,23,Colorado,17
+2017,23,Georgia,547
+2017,23,Illinois,404
+2017,23,New York,106
+2017,23,Pennsylvania,75
+2017,23,Texas,385
+2017,23,Washington,3
+2017,24,Arizona,261
+2017,24,California,470
+2017,24,Colorado,0
+2017,24,Georgia,554
+2017,24,Illinois,339
+2017,24,New York,104
+2017,24,Pennsylvania,58
+2017,24,Texas,329
+2017,24,Washington,9
+2017,25,Arizona,158
+2017,25,California,463
+2017,25,Colorado,20
+2017,25,Georgia,467
+2017,25,Illinois,328
+2017,25,New York,100
+2017,25,Pennsylvania,52
+2017,25,Texas,302
+2017,25,Washington,4
+2017,26,Arizona,230
+2017,26,California,470
+2017,26,Colorado,18
+2017,26,Georgia,438
+2017,26,Illinois,293
+2017,26,New York,83
+2017,26,Pennsylvania,36
+2017,26,Texas,252
+2017,26,Washington,5
+2017,27,Arizona,162
+2017,27,California,369
+2017,27,Colorado,9
+2017,27,Georgia,470
+2017,27,Illinois,226
+2017,27,New York,74
+2017,27,Pennsylvania,44
+2017,27,Texas,256
+2017,27,Washington,4
+2017,28,Arizona,208
+2017,28,California,366
+2017,28,Colorado,13
+2017,28,Georgia,398
+2017,28,Illinois,276
+2017,28,New York,59
+2017,28,Pennsylvania,37
+2017,28,Texas,238
+2017,28,Washington,3
+2017,29,Arizona,211
+2017,29,California,397
+2017,29,Colorado,7
+2017,29,Georgia,322
+2017,29,Illinois,238
+2017,29,New York,74
+2017,29,Pennsylvania,52
+2017,29,Texas,182
+2017,29,Washington,5
+2017,30,Arizona,218
+2017,30,California,342
+2017,30,Colorado,5
+2017,30,Georgia,343
+2017,30,Illinois,242
+2017,30,New York,66
+2017,30,Pennsylvania,45
+2017,30,Texas,264
+2017,30,Washington,4
+2017,31,Arizona,231
+2017,31,California,307
+2017,31,Colorado,16
+2017,31,Georgia,372
+2017,31,Illinois,256
+2017,31,New York,67
+2017,31,Pennsylvania,69
+2017,31,Texas,260
+2017,31,Washington,10
+2017,32,Arizona,175
+2017,32,California,337
+2017,32,Colorado,19
+2017,32,Georgia,484
+2017,32,Illinois,249
+2017,32,New York,71
+2017,32,Pennsylvania,36
+2017,32,Texas,214
+2017,32,Washington,4
+2017,33,Arizona,242
+2017,33,California,340
+2017,33,Colorado,15
+2017,33,Georgia,687
+2017,33,Illinois,273
+2017,33,New York,74
+2017,33,Pennsylvania,41
+2017,33,Texas,206
+2017,33,Washington,4
+2017,34,Arizona,476
+2017,34,California,439
+2017,34,Colorado,21
+2017,34,Georgia,767
+2017,34,Illinois,263
+2017,34,New York,86
+2017,34,Pennsylvania,46
+2017,34,Texas,347
+2017,34,Washington,8
+2017,35,Arizona,391
+2017,35,California,506
+2017,35,Colorado,37
+2017,35,Georgia,809
+2017,35,Illinois,299
+2017,35,New York,83
+2017,35,Pennsylvania,60
+2017,35,Texas,331
+2017,35,Washington,13
+2017,36,Arizona,225
+2017,36,California,490
+2017,36,Colorado,36
+2017,36,Georgia,822
+2017,36,Illinois,354
+2017,36,New York,79
+2017,36,Pennsylvania,60
+2017,36,Texas,371
+2017,36,Washington,16
+2017,37,Arizona,334
+2017,37,California,652
+2017,37,Colorado,145
+2017,37,Georgia,784
+2017,37,Illinois,476
+2017,37,New York,88
+2017,37,Pennsylvania,75
+2017,37,Texas,477
+2017,37,Washington,16
+2017,38,Arizona,212
+2017,38,California,621
+2017,38,Colorado,103
+2017,38,Georgia,790
+2017,38,Illinois,469
+2017,38,New York,102
+2017,38,Pennsylvania,82
+2017,38,Texas,448
+2017,38,Washington,19
+2017,39,Arizona,152
+2017,39,California,659
+2017,39,Colorado,192
+2017,39,Georgia,882
+2017,39,Illinois,473
+2017,39,New York,122
+2017,39,Pennsylvania,92
+2017,39,Texas,494
+2017,39,Washington,14
+2017,40,Arizona,406
+2017,40,California,852
+2017,40,Colorado,129
+2017,40,Georgia,850
+2017,40,Illinois,571
+2017,40,New York,147
+2017,40,Pennsylvania,611
+2017,40,Texas,642
+2017,40,Washington,12
+2017,41,Arizona,373
+2017,41,California,733
+2017,41,Colorado,142
+2017,41,Georgia,982
+2017,41,Illinois,583
+2017,41,New York,133
+2017,41,Pennsylvania,534
+2017,41,Texas,654
+2017,41,Washington,28
+2017,42,Arizona,374
+2017,42,California,823
+2017,42,Colorado,158
+2017,42,Georgia,1022
+2017,42,Illinois,485
+2017,42,New York,187
+2017,42,Pennsylvania,587
+2017,42,Texas,641
+2017,42,Washington,44
+2017,43,Arizona,408
+2017,43,California,906
+2017,43,Colorado,145
+2017,43,Georgia,1165
+2017,43,Illinois,535
+2017,43,New York,198
+2017,43,Pennsylvania,557
+2017,43,Texas,710
+2017,43,Washington,17
+2017,44,Arizona,471
+2017,44,California,948
+2017,44,Colorado,191
+2017,44,Georgia,1208
+2017,44,Illinois,549
+2017,44,New York,204
+2017,44,Pennsylvania,664
+2017,44,Texas,774
+2017,44,Washington,49
+2017,45,Arizona,317
+2017,45,California,950
+2017,45,Colorado,220
+2017,45,Georgia,1466
+2017,45,Illinois,633
+2017,45,New York,232
+2017,45,Pennsylvania,764
+2017,45,Texas,1109
+2017,45,Washington,55
+2017,46,Arizona,451
+2017,46,California,1024
+2017,46,Colorado,256
+2017,46,Georgia,1541
+2017,46,Illinois,610
+2017,46,New York,239
+2017,46,Pennsylvania,810
+2017,46,Texas,1365
+2017,46,Washington,43
+2017,47,Arizona,215
+2017,47,California,817
+2017,47,Colorado,227
+2017,47,Georgia,1624
+2017,47,Illinois,545
+2017,47,New York,195
+2017,47,Pennsylvania,718
+2017,47,Texas,1023
+2017,47,Washington,56
+2017,48,Arizona,615
+2017,48,California,988
+2017,48,Colorado,336
+2017,48,Georgia,1650
+2017,48,Illinois,906
+2017,48,New York,277
+2017,48,Pennsylvania,888
+2017,48,Texas,1541
+2017,48,Washington,70
+2017,49,Arizona,449
+2017,49,California,1236
+2017,49,Colorado,379
+2017,49,Georgia,1568
+2017,49,Illinois,957
+2017,49,New York,334
+2017,49,Pennsylvania,826
+2017,49,Texas,1678
+2017,49,Washington,20
+2017,50,Arizona,866
+2017,50,California,1671
+2017,50,Colorado,436
+2017,50,Georgia,1683
+2017,50,Illinois,1397
+2017,50,New York,349
+2017,50,Pennsylvania,852
+2017,50,Texas,2764
+2017,50,Washington,25
+2017,51,Arizona,973
+2017,51,California,2069
+2017,51,Colorado,546
+2017,51,Georgia,2199
+2017,51,Illinois,1956
+2017,51,New York,445
+2017,51,Pennsylvania,1016
+2017,51,Texas,3938
+2017,51,Washington,39
+2017,52,Arizona,1078
+2017,52,California,2512
+2017,52,Colorado,469
+2017,52,Georgia,2412
+2017,52,Illinois,2524
+2017,52,New York,366
+2017,52,Pennsylvania,1334
+2017,52,Texas,1830
+2017,52,Washington,257
+2018,1,Arizona,1249
+2018,1,California,2310
+2018,1,Colorado,553
+2018,1,Georgia,3067
+2018,1,Illinois,2495
+2018,1,New York,340
+2018,1,Pennsylvania,1709
+2018,1,Texas,3428
+2018,1,Washington,267
+2018,2,Arizona,951
+2018,2,California,2361
+2018,2,Colorado,686
+2018,2,Georgia,4731
+2018,2,Illinois,2465
+2018,2,New York,648
+2018,2,Pennsylvania,1739
+2018,2,Texas,4047
+2018,2,Washington,352
+2018,3,Arizona,1056
+2018,3,California,1963
+2018,3,Colorado,665
+2018,3,Georgia,6284
+2018,3,Illinois,2370
+2018,3,New York,842
+2018,3,Pennsylvania,2246
+2018,3,Texas,3966
+2018,3,Washington,286
+2018,4,Arizona,923
+2018,4,California,2038
+2018,4,Colorado,793
+2018,4,Georgia,7656
+2018,4,Illinois,2560
+2018,4,New York,1355
+2018,4,Pennsylvania,3116
+2018,4,Texas,5203
+2018,4,Washington,345
+2018,5,Arizona,756
+2018,5,California,2369
+2018,5,Colorado,977
+2018,5,Georgia,8032
+2018,5,Illinois,2720
+2018,5,New York,1674
+2018,5,Pennsylvania,3680
+2018,5,Texas,4996
+2018,5,Washington,247
+2018,6,Arizona,996
+2018,6,California,2116
+2018,6,Colorado,863
+2018,6,Georgia,8949
+2018,6,Illinois,2552
+2018,6,New York,1678
+2018,6,Pennsylvania,4221
+2018,6,Texas,4450
+2018,6,Washington,210
+2018,7,Arizona,948
+2018,7,California,1879
+2018,7,Colorado,740
+2018,7,Georgia,6528
+2018,7,Illinois,2414
+2018,7,New York,1588
+2018,7,Pennsylvania,4352
+2018,7,Texas,3598
+2018,7,Washington,181
+2018,8,Arizona,885
+2018,8,California,1619
+2018,8,Colorado,672
+2018,8,Georgia,3190
+2018,8,Illinois,1879
+2018,8,New York,875
+2018,8,Pennsylvania,3145
+2018,8,Texas,2638
+2018,8,Washington,176
+2018,9,Arizona,778
+2018,9,California,1870
+2018,9,Colorado,554
+2018,9,Georgia,1961
+2018,9,Illinois,1279
+2018,9,New York,576
+2018,9,Pennsylvania,2149
+2018,9,Texas,1833
+2018,9,Washington,123
+2018,10,Arizona,535
+2018,10,California,1813
+2018,10,Colorado,455
+2018,10,Georgia,1783
+2018,10,Illinois,1081
+2018,10,New York,402
+2018,10,Pennsylvania,1420
+2018,10,Texas,1286
+2018,10,Washington,93
+2018,11,Arizona,550
+2018,11,California,1658
+2018,11,Colorado,360
+2018,11,Georgia,1655
+2018,11,Illinois,1051
+2018,11,New York,345
+2018,11,Pennsylvania,1319
+2018,11,Texas,817
+2018,11,Washington,114
+2018,12,Arizona,640
+2018,12,California,1457
+2018,12,Colorado,313
+2018,12,Georgia,1381
+2018,12,Illinois,958
+2018,12,New York,249
+2018,12,Pennsylvania,1289
+2018,12,Texas,853
+2018,12,Washington,113
+2018,13,Arizona,575
+2018,13,California,1167
+2018,13,Colorado,225
+2018,13,Georgia,1342
+2018,13,Illinois,811
+2018,13,New York,275
+2018,13,Pennsylvania,1174
+2018,13,Texas,762
+2018,13,Washington,86
+2018,14,Arizona,565
+2018,14,California,1082
+2018,14,Colorado,222
+2018,14,Georgia,1211
+2018,14,Illinois,781
+2018,14,New York,212
+2018,14,Pennsylvania,1186
+2018,14,Texas,530
+2018,14,Washington,79
+2018,15,Arizona,566
+2018,15,California,903
+2018,15,Colorado,150
+2018,15,Georgia,1147
+2018,15,Illinois,695
+2018,15,New York,240
+2018,15,Pennsylvania,894
+2018,15,Texas,437
+2018,15,Washington,50
+2018,16,Arizona,483
+2018,16,California,888
+2018,16,Colorado,146
+2018,16,Georgia,979
+2018,16,Illinois,506
+2018,16,New York,237
+2018,16,Pennsylvania,732
+2018,16,Texas,696
+2018,16,Washington,47
+2018,17,Arizona,450
+2018,17,California,934
+2018,17,Colorado,176
+2018,17,Georgia,850
+2018,17,Illinois,578
+2018,17,New York,177
+2018,17,Pennsylvania,715
+2018,17,Texas,624
+2018,17,Washington,21
+2018,18,Arizona,434
+2018,18,California,876
+2018,18,Colorado,136
+2018,18,Georgia,942
+2018,18,Illinois,445
+2018,18,New York,232
+2018,18,Pennsylvania,598
+2018,18,Texas,570
+2018,18,Washington,23
+2018,19,Arizona,386
+2018,19,California,828
+2018,19,Colorado,109
+2018,19,Georgia,897
+2018,19,Illinois,423
+2018,19,New York,165
+2018,19,Pennsylvania,495
+2018,19,Texas,509
+2018,19,Washington,25
+2018,20,Arizona,357
+2018,20,California,708
+2018,20,Colorado,97
+2018,20,Georgia,902
+2018,20,Illinois,387
+2018,20,New York,131
+2018,20,Pennsylvania,407
+2018,20,Texas,391
+2018,20,Washington,21
+2018,21,Arizona,342
+2018,21,California,690
+2018,21,Colorado,72
+2018,21,Georgia,768
+2018,21,Illinois,366
+2018,21,New York,99
+2018,21,Pennsylvania,378
+2018,21,Texas,441
+2018,21,Washington,11
+2018,22,Arizona,325
+2018,22,California,581
+2018,22,Colorado,78
+2018,22,Georgia,768
+2018,22,Illinois,323
+2018,22,New York,99
+2018,22,Pennsylvania,373
+2018,22,Texas,334
+2018,22,Washington,1
+2018,23,Arizona,180
+2018,23,California,571
+2018,23,Colorado,66
+2018,23,Georgia,638
+2018,23,Illinois,224
+2018,23,New York,2
+2018,23,Pennsylvania,379
+2018,23,Texas,316
+2018,23,Washington,1
+2018,24,Arizona,140
+2018,24,California,548
+2018,24,Colorado,57
+2018,24,Georgia,528
+2018,24,Illinois,209
+2018,24,New York,3
+2018,24,Pennsylvania,318
+2018,24,Texas,320
+2018,24,Washington,13
+2018,25,Arizona,288
+2018,25,California,526
+2018,25,Colorado,46
+2018,25,Georgia,516
+2018,25,Illinois,269
+2018,25,New York,0
+2018,25,Pennsylvania,280
+2018,25,Texas,250
+2018,25,Washington,14
+2018,26,Arizona,266
+2018,26,California,493
+2018,26,Colorado,65
+2018,26,Georgia,457
+2018,26,Illinois,239
+2018,26,New York,1
+2018,26,Pennsylvania,261
+2018,26,Texas,288
+2018,26,Washington,19
+2018,27,Arizona,189
+2018,27,California,380
+2018,27,Colorado,37
+2018,27,Georgia,426
+2018,27,Illinois,241
+2018,27,New York,10
+2018,27,Pennsylvania,236
+2018,27,Texas,211
+2018,27,Washington,12
+2018,28,Arizona,238
+2018,28,California,398
+2018,28,Colorado,53
+2018,28,Georgia,446
+2018,28,Illinois,264
+2018,28,New York,0
+2018,28,Pennsylvania,251
+2018,28,Texas,256
+2018,28,Washington,8
+2018,29,Arizona,142
+2018,29,California,379
+2018,29,Colorado,48
+2018,29,Georgia,392
+2018,29,Illinois,221
+2018,29,New York,0
+2018,29,Pennsylvania,157
+2018,29,Texas,203
+2018,29,Washington,9
+2018,30,Arizona,260
+2018,30,California,382
+2018,30,Colorado,35
+2018,30,Georgia,441
+2018,30,Illinois,164
+2018,30,New York,1
+2018,30,Pennsylvania,168
+2018,30,Texas,197
+2018,30,Washington,11
+2018,31,Arizona,166
+2018,31,California,374
+2018,31,Colorado,40
+2018,31,Georgia,390
+2018,31,Illinois,177
+2018,31,New York,1
+2018,31,Pennsylvania,205
+2018,31,Texas,209
+2018,31,Washington,5
+2018,32,Arizona,257
+2018,32,California,387
+2018,32,Colorado,40
+2018,32,Georgia,465
+2018,32,Illinois,157
+2018,32,New York,0
+2018,32,Pennsylvania,175
+2018,32,Texas,156
+2018,32,Washington,8
+2018,33,Arizona,222
+2018,33,California,391
+2018,33,Colorado,48
+2018,33,Georgia,711
+2018,33,Illinois,172
+2018,33,New York,0
+2018,33,Pennsylvania,194
+2018,33,Texas,184
+2018,33,Washington,5
+2018,34,Arizona,375
+2018,34,California,335
+2018,34,Colorado,75
+2018,34,Georgia,810
+2018,34,Illinois,188
+2018,34,New York,0
+2018,34,Pennsylvania,198
+2018,34,Texas,270
+2018,34,Washington,8
+2018,35,Arizona,295
+2018,35,California,435
+2018,35,Colorado,77
+2018,35,Georgia,852
+2018,35,Illinois,269
+2018,35,New York,0
+2018,35,Pennsylvania,238
+2018,35,Texas,244
+2018,35,Washington,7
+2018,36,Arizona,316
+2018,36,California,515
+2018,36,Colorado,99
+2018,36,Georgia,896
+2018,36,Illinois,263
+2018,36,New York,2
+2018,36,Pennsylvania,307
+2018,36,Texas,382
+2018,36,Washington,12
+2018,37,Arizona,355
+2018,37,California,645
+2018,37,Colorado,83
+2018,37,Georgia,888
+2018,37,Illinois,292
+2018,37,New York,8
+2018,37,Pennsylvania,395
+2018,37,Texas,449
+2018,37,Washington,17
+2018,38,Arizona,286
+2018,38,California,555
+2018,38,Colorado,80
+2018,38,Georgia,844
+2018,38,Illinois,334
+2018,38,New York,11
+2018,38,Pennsylvania,505
+2018,38,Texas,465
+2018,38,Washington,20
+2018,39,Arizona,224
+2018,39,California,546
+2018,39,Colorado,64
+2018,39,Georgia,856
+2018,39,Illinois,272
+2018,39,New York,26
+2018,39,Pennsylvania,568
+2018,39,Texas,561
+2018,39,Washington,11
+2018,40,Arizona,307
+2018,40,California,698
+2018,40,Colorado,843
+2018,40,Georgia,1850
+2018,40,Illinois,394
+2018,40,New York,623
+2018,40,Pennsylvania,536
+2018,40,Texas,730
+2018,40,Washington,24
+2018,41,Arizona,288
+2018,41,California,598
+2018,41,Colorado,978
+2018,41,Georgia,1830
+2018,41,Illinois,493
+2018,41,New York,661
+2018,41,Pennsylvania,639
+2018,41,Texas,589
+2018,41,Washington,37
+2018,42,Arizona,332
+2018,42,California,691
+2018,42,Colorado,1042
+2018,42,Georgia,2067
+2018,42,Illinois,518
+2018,42,New York,706
+2018,42,Pennsylvania,610
+2018,42,Texas,607
+2018,42,Washington,21
+2018,43,Arizona,257
+2018,43,California,753
+2018,43,Colorado,944
+2018,43,Georgia,2338
+2018,43,Illinois,579
+2018,43,New York,700
+2018,43,Pennsylvania,652
+2018,43,Texas,761
+2018,43,Washington,31
+2018,44,Arizona,407
+2018,44,California,875
+2018,44,Colorado,1073
+2018,44,Georgia,2626
+2018,44,Illinois,656
+2018,44,New York,786
+2018,44,Pennsylvania,676
+2018,44,Texas,831
+2018,44,Washington,27
+2018,45,Arizona,424
+2018,45,California,944
+2018,45,Colorado,1120
+2018,45,Georgia,2745
+2018,45,Illinois,632
+2018,45,New York,710
+2018,45,Pennsylvania,731
+2018,45,Texas,945
+2018,45,Washington,30
+2018,46,Arizona,363
+2018,46,California,943
+2018,46,Colorado,1160
+2018,46,Georgia,2888
+2018,46,Illinois,649
+2018,46,New York,659
+2018,46,Pennsylvania,675
+2018,46,Texas,973
+2018,46,Washington,29
+2018,47,Arizona,434
+2018,47,California,719
+2018,47,Colorado,986
+2018,47,Georgia,3230
+2018,47,Illinois,627
+2018,47,New York,742
+2018,47,Pennsylvania,663
+2018,47,Texas,806
+2018,47,Washington,30
+2018,48,Arizona,552
+2018,48,California,1177
+2018,48,Colorado,1492
+2018,48,Georgia,3378
+2018,48,Illinois,732
+2018,48,New York,828
+2018,48,Pennsylvania,1074
+2018,48,Texas,1104
+2018,48,Washington,40
+2018,49,Arizona,525
+2018,49,California,1206
+2018,49,Colorado,1606
+2018,49,Georgia,3182
+2018,49,Illinois,788
+2018,49,New York,892
+2018,49,Pennsylvania,811
+2018,49,Texas,1017
+2018,49,Washington,33
+2018,50,Arizona,622
+2018,50,California,1356
+2018,50,Colorado,2122
+2018,50,Georgia,4258
+2018,50,Illinois,854
+2018,50,New York,1172
+2018,50,Pennsylvania,958
+2018,50,Texas,1148
+2018,50,Washington,41
+2018,51,Arizona,547
+2018,51,California,1288
+2018,51,Colorado,2571
+2018,51,Georgia,5436
+2018,51,Illinois,987
+2018,51,New York,1427
+2018,51,Pennsylvania,1092
+2018,51,Texas,1255
+2018,51,Washington,39
+2018,52,Arizona,567
+2018,52,California,935
+2018,52,Colorado,2608
+2018,52,Georgia,5994
+2018,52,Illinois,1339
+2018,52,New York,1757
+2018,52,Pennsylvania,1442
+2018,52,Texas,1317
+2018,52,Washington,45
